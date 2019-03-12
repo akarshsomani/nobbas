@@ -1,0 +1,791 @@
+,id,stateOrProvince,bathrooms,bedrooms,listPrice,livingArea,yearBuilt,lotSize,propertySubType,listingCategory,numParkingSpaces,photoscount,grade
+0,2698139,MO,6,5,425000.0,3046.0,1998.0,122417.00078291811,Single Family Detached,Purchase,3.0,29,awesome
+1,2698093,MO,2,3,175000.0,1587.0,1962.0,7753.68,Single Family Detached,Purchase,1.0,29,awesome
+2,2698007,MO,3,3,295000.0,2437.0,1986.0,14766.84,Condominium,Purchase,2.0,29,awesome
+3,2697963,MO,2,3,215000.0,1780.0,1969.0,11848.32,Single Family Detached,Purchase,2.0,29,awesome
+4,2697938,MO,4,4,375000.0,3405.0,2007.0,10890.0,Single Family Detached,Purchase,3.0,29,awesome
+5,2697936,MO,3,4,299900.0,1814.0,1999.0,6098.4,Single Family Detached,Purchase,2.0,29,awesome
+6,2697845,MO,1,2,140000.0,2800.0,2012.0,140176.08,Single Family Detached,Purchase,2.0,29,awesome
+7,2697825,MO,1,3,82500.0,1435.0,1954.0,122417.00078291811,Single Family Detached,Purchase,1.0,29,awesome
+8,2697732,MO,4,4,239900.0,2358.0,1903.0,2700.72,Single Family Detached,Purchase,2.0,29,awesome
+9,2697716,MO,3,3,239900.0,1524.0,1985.0,9583.2,Single Family Detached,Purchase,2.0,29,awesome
+10,2697594,FL,3,2,109990.0,1377.0,1984.0,122417.00078291811,Condominium,Purchase,0.0,29,awesome
+11,2697536,FL,3,4,3000.0,2084.289256198347,2000.0,6969.6,Single Family Detached,Rent,3.0,29,awesome
+12,2697492,FL,3,2,3995000.0,1882.0,2017.0,122417.00078291811,Condominium,Purchase,0.0,29,awesome
+13,2697491,FL,2,4,374000.0,1994.0,1986.0,7405.2,Single Family Detached,Purchase,0.0,29,awesome
+14,2697464,FL,3,3,1750.0,2084.289256198347,1996.0,122417.00078291811,Townhouse,Rent,0.0,29,awesome
+15,2697341,FL,2,1,615000.0,778.0,2008.0,122417.00078291811,Condominium,Purchase,1.0,29,awesome
+16,2697334,FL,3,3,1225000.0,2399.0,1954.0,6534.0,Single Family Detached,Purchase,0.0,29,awesome
+17,2697288,FL,1,1,1350.0,2084.289256198347,1976.0,122417.00078291811,Condominium,Rent,1.0,29,awesome
+18,2697218,FL,2,4,415000.0,2310.0,1984.0,122417.00078291811,Single Family Detached,Purchase,2.0,29,awesome
+19,2697153,FL,2,4,379900.0,2242.0,1973.0,6098.4,Single Family Detached,Purchase,1.0,29,awesome
+20,2697126,FL,2,3,228000.0,1390.0,1972.0,122417.00078291811,Condominium,Purchase,0.0,29,awesome
+21,2697005,FL,2,2,85900.0,850.0,1975.0,122417.00078291811,Condominium,Purchase,0.0,29,awesome
+22,2696974,FL,2,2,265000.0,1304.0,1984.0,4791.6,Single Family Detached,Purchase,0.0,29,awesome
+23,2696672,FL,2,2,227000.0,1081.0,1971.0,122417.00078291811,Condominium,Purchase,1.0,29,awesome
+24,2696669,FL,2,2,360000.0,1750.0,1995.0,122417.00078291811,Condominium,Purchase,1.0,29,awesome
+25,2696650,FL,5,5,855000.0,4309.0,2017.0,5227.2,Single Family Detached,Purchase,4.0,29,awesome
+26,2696607,FL,3,4,320000.0,1921.0,1955.0,8276.4,Single Family Detached,Purchase,2.0,29,awesome
+27,2696535,FL,2,1,552000.0,865.0,1965.0,122417.00078291811,Condominium,Purchase,1.0,29,awesome
+28,2696520,FL,2,2,2700.0,2084.289256198347,2006.0,1306.8,Apartment,Rent,1.0,29,awesome
+29,2696463,FL,2,2,5500.0,2084.289256198347,2018.0,122417.00078291811,Condominium,Rent,1.0,29,awesome
+30,2696369,FL,3,4,293000.0,2513.0,2003.0,4791.6,Single Family Detached,Purchase,2.0,29,awesome
+31,2696296,FL,2,4,450000.0,2007.0,1987.0,4791.6,Single Family Detached,Purchase,2.0,29,awesome
+32,2696238,FL,1,3,279400.0,1071.0,1953.0,8712.0,Single Family Detached,Purchase,0.0,29,awesome
+33,2696235,FL,2,3,314900.0,2693.0,1984.0,4356.0,Single Family Detached,Purchase,1.0,29,awesome
+34,2696217,FL,3,5,949000.0,5414.0,1980.0,41382.0,Single Family Detached,Purchase,2.0,29,awesome
+35,2696170,FL,2,2,125000.0,1078.0,1972.0,122417.00078291811,Condominium,Purchase,0.0,29,awesome
+36,2696160,FL,3,4,2575.0,2084.289256198347,1989.0,122417.00078291811,Single Family Detached,Rent,2.0,29,awesome
+37,2696077,FL,2,4,279000.0,2270.0,2005.0,5227.2,Single Family Detached,Purchase,2.0,29,awesome
+38,2696070,FL,2,3,515900.0,2570.0,1958.0,18295.2,Single Family Detached,Purchase,0.0,29,awesome
+39,2696029,FL,2,4,415000.0,2624.0,2000.0,18295.2,Single Family Detached,Purchase,2.0,29,awesome
+40,2696021,FL,1,1,1550.0,2084.289256198347,1971.0,122417.00078291811,Condominium,Rent,1.0,29,awesome
+41,2695964,FL,1,1,2100.0,2084.289256198347,1966.0,122417.00078291811,Condominium,Rent,1.0,29,awesome
+42,2695913,FL,3,4,2550.0,2084.289256198347,2002.0,4791.6,Townhouse,Rent,1.0,29,awesome
+43,2695219,AL,2,3,125000.0,2052.0,1954.0,16988.4,Single Family Detached,Purchase,0.0,29,awesome
+44,2695207,AL,2,3,82900.0,1064.0,2007.0,96267.6,Single Family Detached,Purchase,0.0,29,awesome
+45,2683453,NV,3,3,1595.0,2005.0,2004.0,4791.6,Single Family Detached,Rent,0.0,35,awesome
+46,2683452,NV,2,3,1200.0,1255.0,2006.0,122417.00078291811,Condominium,Rent,0.0,50,awesome
+47,2683451,NV,2,3,1100.0,1026.0,1972.0,871.2,Townhouse,Rent,0.0,40,awesome
+48,2683450,NV,2,2,1000.0,960.0,1999.0,122417.00078291811,Condominium,Rent,0.0,47,awesome
+49,2683449,NV,3,4,1495.0,2047.0,2000.0,6098.4,Single Family Detached,Rent,0.0,35,awesome
+50,2683448,NV,4,3,1900.0,1584.0,2007.0,122417.00078291811,Condominium,Rent,0.0,48,awesome
+51,2683446,NV,2,3,269900.0,1673.0,2008.0,5227.2,Single Family Detached,Purchase,0.0,35,awesome
+52,2683444,NV,3,3,339900.0,2494.0,2003.0,6969.6,Single Family Detached,Purchase,0.0,35,awesome
+53,2683440,NV,3,2,2450.0,1856.0,1974.0,122417.00078291811,Condominium,Rent,0.0,47,awesome
+54,2683435,NV,2,1,1995.0,1534.0,1974.0,122417.00078291811,Condominium,Rent,0.0,34,awesome
+55,2683432,NV,3,3,1895.0,2851.0,2007.0,3920.4,Single Family Detached,Rent,0.0,40,awesome
+56,2683431,NV,2,2,139900.0,1053.0,2002.0,122417.00078291811,Condominium,Purchase,0.0,35,awesome
+57,2683425,NV,2,3,264900.0,1371.0,2009.0,4356.0,Single Family Detached,Purchase,0.0,33,awesome
+58,2683424,NV,2,3,228900.0,1233.0,1978.0,6534.0,Single Family Detached,Purchase,0.0,30,awesome
+59,2683422,NV,2,2,265888.0,1243.0,2006.0,122417.00078291811,Condominium,Purchase,0.0,39,awesome
+60,2683421,NV,3,4,290000.0,2002.0,1997.0,6969.6,Single Family Detached,Purchase,0.0,41,awesome
+61,2683420,NV,2,3,415000.0,2161.0,2003.0,11761.2,Single Family Detached,Purchase,0.0,42,awesome
+62,2683419,NV,3,5,499999.0,4106.0,1984.0,10018.8,Single Family Detached,Purchase,0.0,48,awesome
+63,2683418,NV,2,2,338888.0,1677.0,2011.0,5662.8,Single Family Detached,Purchase,0.0,47,awesome
+64,2683415,NV,3,5,2250.0,2291.0,1995.0,5227.2,Single Family Detached,Rent,0.0,33,awesome
+65,2683408,NV,3,4,429900.0,2678.0,2003.0,6098.4,Single Family Detached,Purchase,0.0,49,awesome
+66,2683406,NV,4,3,4000.0,3586.0,2007.0,6534.0,Single Family Detached,Rent,0.0,50,awesome
+67,2683405,NV,2,3,315000.0,1268.0,1995.0,4356.0,Single Family Detached,Purchase,0.0,33,awesome
+68,2683404,NV,3,3,249950.0,1596.0,2000.0,3484.8,Single Family Detached,Purchase,0.0,35,awesome
+69,2683402,NV,4,5,599000.0,4522.0,2012.0,6534.0,Single Family Detached,Purchase,0.0,45,awesome
+70,2683401,NV,2,3,395000.0,2072.0,2015.0,21780.0,Single Family Detached,Purchase,0.0,31,awesome
+71,2683399,NV,6,3,378000.0,4801.0,2005.0,23565.96,Single Family Detached,Purchase,0.0,35,awesome
+72,2683397,NV,2,3,208000.0,1304.0,1998.0,49658.4,Single Family Detached,Purchase,0.0,35,awesome
+73,2683396,NV,3,4,269900.0,2078.0,2007.0,9147.6,Single Family Detached,Purchase,0.0,32,awesome
+74,2683394,NV,2,3,227000.0,1591.0,2008.0,11325.6,Single Family Detached,Purchase,0.0,45,awesome
+75,2683393,NV,3,4,249500.0,2060.0,1994.0,95832.0,Manufactured Home,Purchase,0.0,43,awesome
+76,2683392,NV,3,4,1800.0,1882.0,2003.0,4791.6,Single Family Detached,Rent,0.0,47,awesome
+77,2683391,NV,2,4,2500.0,1533.0,1976.0,9583.2,Single Family Detached,Rent,0.0,33,awesome
+78,2683389,NV,3,4,299900.0,1987.0,1995.0,8276.4,Single Family Detached,Purchase,0.0,42,awesome
+79,2683388,NV,2,4,2200.0,1337.0,1972.0,6098.4,Single Family Detached,Rent,0.0,32,awesome
+80,2683386,NV,2,3,1795.0,1273.0,1999.0,4356.0,Single Family Detached,Rent,0.0,35,awesome
+81,2683384,NV,3,5,415000.0,2869.0,1994.0,7405.2,Single Family Detached,Purchase,0.0,41,awesome
+82,2683377,NV,2,3,238900.0,1738.0,2004.0,20037.6,Single Family Detached,Purchase,0.0,33,awesome
+83,2683374,NV,3,3,435000.0,2519.0,2014.0,10890.0,Single Family Detached,Purchase,0.0,36,awesome
+84,2683371,NV,3,3,399999.0,2061.0,2015.0,4356.0,Single Family Detached,Purchase,0.0,34,awesome
+85,2683370,NV,3,4,278888.0,1869.0,1983.0,7405.2,Single Family Detached,Purchase,0.0,41,awesome
+86,2683366,NV,4,4,1875.0,2044.0,2017.0,3049.2,Single Family Detached,Rent,0.0,47,awesome
+87,2683360,NV,3,3,338800.0,1835.0,2015.0,3484.8,Single Family Detached,Purchase,0.0,50,awesome
+88,2683343,NV,3,4,499900.0,3704.0,2005.0,14374.8,Single Family Detached,Purchase,0.0,50,awesome
+89,2683342,NV,4,4,749000.0,3623.0,2006.0,10890.0,Single Family Detached,Purchase,0.0,41,awesome
+90,2652732,FL,2,2,579000.0,1910.0,2008.0,122417.00078291811,Single Family Detached,Purchase,2.0,36,awesome
+91,2652725,MN,3,3,279900.0,2075.0,1959.0,10105.92,Single Family Detached,Purchase,2.0,42,awesome
+92,2651253,TX,3,4,4395.0,3545.0,2018.0,43734.24,Single Family Detached,Rent,3.0,33,awesome
+93,2651251,TX,3,4,3700.0,3216.0,2017.0,15028.2,Single Family Detached,Rent,3.0,31,awesome
+94,2651249,TX,3,4,3880.0,3401.0,2018.0,15246.0,Single Family Detached,Rent,3.0,30,awesome
+95,2651248,TX,4,4,4695.0,3777.0,2017.0,47001.24,Single Family Detached,Rent,3.0,30,awesome
+96,2651247,TX,4,4,5195.0,4101.0,2017.0,53056.08,Single Family Detached,Rent,3.0,33,awesome
+97,2651246,TX,4,4,4650.0,4041.0,2018.0,18469.44,Single Family Detached,Rent,3.0,31,awesome
+98,2651232,TX,3,4,265000.0,2285.0,1975.0,122417.00078291811,Single Family Detached,Purchase,0.0,30,awesome
+99,2651224,TX,4,4,509000.0,3568.0,2009.0,7318.08,Single Family Detached,Purchase,2.0,36,awesome
+100,2651210,TX,3,4,2800.0,2609.0,2019.0,5880.6,Single Family Detached,Rent,2.0,35,awesome
+101,2651188,TX,3,4,350000.0,2297.0,1999.0,76796.28,Single Family Detached,Purchase,8.0,34,awesome
+102,2651178,TX,1,2,1000.0,942.0,1962.0,10715.76,Duplex,Rent,1.0,30,awesome
+103,2648579,ID,3,4,350000.0,3504.0,1987.0,122417.00078291811,Single Family Detached,Purchase,0.0,34,awesome
+104,2622673,FL,2,3,299900.0,2341.0,1998.0,11325.6,Single Family Detached,Purchase,3.0,28,awesome
+105,2574950,FL,1,2,175000.0,860.0,1965.0,5662.8,Single Family Detached,Purchase,1.0,28,awesome
+106,2518922,NY,1,2,95000.0,2084.289256198347,1960.0,15246.0,Single Family Detached,Purchase,0.0,6,good
+107,2517212,FL,2,3,345000.0,2161.0,1995.0,122417.00078291811,Other,Purchase,2.0,32,awesome
+108,2511861,CA,3,2,1739000.0,1481.0,2003.0,124611.0,Condominium,Purchase,0.0,54,awesome
+109,2511356,AR,2,3,149500.0,1605.0,1964.0,21780.0,Other,Purchase,0.0,28,awesome
+110,2497391,FL,3,3,195000.0,1607.0,2005.0,122417.00078291811,Townhouse,Purchase,0.0,29,awesome
+111,2494148,NV,3,3,285000.0,1634.0,2007.0,2178.0,Single Family Detached,Purchase,0.0,29,awesome
+112,2489057,IN,3,3,162900.0,1584.0,2005.0,4486.68,Single Family Detached,Purchase,2.0,35,awesome
+113,2488871,KS,2,4,119900.0,1779.0,1955.0,7840.8,Single Family Detached,Purchase,0.0,29,awesome
+114,2484630,FL,0,0,349000.0,3172.0,1954.0,13939.2,Duplex,Purchase,1.0,50,awesome
+115,2484416,FL,2,3,98499.0,1125.0,1978.0,717868.8,Condominium,Purchase,0.0,34,awesome
+116,2482157,TX,4,5,712000.0,4747.0,2014.0,9191.16,Single Family Detached,Purchase,3.0,29,awesome
+118,2480477,FL,2,3,199900.0,1395.0,1976.0,122417.00078291811,Single Family Detached,Purchase,0.0,29,awesome
+119,2476919,FL,5,6,675000.0,4421.0,1992.0,17424.0,Single Family Detached,Purchase,3.0,50,awesome
+120,2471559,NY,1,4,125000.0,1188.0,1947.0,8833.97,Single Family Detached,Purchase,0.0,29,awesome
+121,2470843,NV,3,6,469900.0,3466.0,1994.0,9147.6,Single Family Detached,Purchase,0.0,50,awesome
+122,2470058,GA,1,1,340000.0,0.0,2002.0,122417.00078291811,Condominium,Purchase,0.0,29,awesome
+123,2468320,CA,3,3,314900.0,1821.0,2014.0,6098.4,Single Family Detached,Purchase,2.0,30,awesome
+124,2466710,NC,3,4,310000.0,2443.0,2008.0,11761.2,Single Family Detached,Purchase,2.0,31,awesome
+125,2464966,TX,3,3,279500.0,2031.0,2009.0,6534.0,Single Family Detached,Purchase,0.0,32,awesome
+126,2464247,AZ,5,7,575000.0,4710.0,2013.0,8399.98,Single Family Detached,Purchase,0.0,72,awesome
+127,2464222,AZ,2,4,322900.0,1821.0,1998.0,7700.01,Single Family Detached,Purchase,0.0,46,awesome
+128,2463941,AZ,2,4,230000.0,1825.0,2003.0,6380.02,Single Family Detached,Purchase,0.0,47,awesome
+129,2463842,AZ,2,3,325000.0,1943.0,1977.0,10336.0,Single Family Detached,Purchase,0.0,46,awesome
+130,2434931,WI,4,4,369900.0,3516.0,2000.0,20255.4,Single Family Detached,Purchase,2.0,0,bad
+131,2434072,NY,1,1,3200.0,2084.289256198347,1961.0,122417.00078291811,Condominium,Rent,0.0,0,bad
+132,2434068,NY,2,2,1235000.0,2084.289256198347,2018.0,122417.00078291811,Condominium,Purchase,0.0,0,bad
+135,2432172,TX,3,4,327500.0,3088.0,1989.0,122417.00078291811,Single Family Detached,Purchase,4.0,0,bad
+136,2424979,AZ,2,4,204900.0,1972.0,2008.0,7149.98,Single Family Detached,Purchase,0.0,57,awesome
+137,2411657,NC,3,2,145000.0,1092.0,1998.0,122417.00078291811,Single Family Attached,Purchase,2.0,29,awesome
+138,2405895,NE,2,3,140000.0,1414.0,1962.0,122417.00078291811,Single Family Detached,Purchase,1.0,29,awesome
+139,2385136,NY,2,3,4996.0,2084.289256198347,1951.0,122417.00078291811,Apartment,Rent,0.0,10,good
+140,2378144,TX,2,3,1295.0,1106.0,1969.0,7797.24,Single Family Detached,Rent,2.0,0,bad
+141,2378043,TX,4,5,450000.0,2997.0,2002.0,25047.0,Single Family Detached,Purchase,3.0,35,awesome
+142,2373303,IL,2,3,155000.0,2084.289256198347,2018.0,122417.00078291811,Mobile Home,Purchase,2.0,9,good
+144,2368306,FL,2,2,146900.0,1392.0,1997.0,8712.0,Townhouse,Purchase,1.0,29,awesome
+145,2367630,GA,2,3,12000.0,2084.289256198347,1960.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+146,2365863,FL,3,4,400900.0,2546.0,2014.0,122417.00078291811,Townhouse,Purchase,1.0,29,awesome
+147,2363857,AZ,3,3,279000.0,1302.0,1997.0,12196.8,Single Family Detached,Purchase,0.0,29,awesome
+148,2356716,GA,1,2,450.0,0.0,1980.0,122417.00078291811,Apartment,Rent,0.0,9,good
+149,2351591,CA,2,2,299500.0,1333.0,2004.0,122417.00078291811,Condominium,Purchase,0.0,29,awesome
+150,2332568,VA,2,3,210000.0,1188.0,1983.0,8537.76,Single Family Detached,Purchase,0.0,29,awesome
+151,2322354,WI,2,3,159900.0,1698.0,1953.0,8276.4,Single Family Detached,Purchase,0.0,10,good
+152,2312772,MA,2,3,310000.0,1620.0,2005.0,345866.4,Single Family Detached,Purchase,4.0,30,awesome
+153,2304721,NY,3,4,139500.0,3054.0,1910.0,15246.0,Single Family Detached,Purchase,1.0,30,awesome
+154,2304609,MO,3,3,145000.0,1132.0,1986.0,122417.00078291811,Single Family Detached,Purchase,2.0,43,awesome
+155,2304605,MO,1,3,239500.0,1233.0,1923.0,4356.0,Single Family Detached,Purchase,1.0,35,awesome
+156,2304544,KS,4,4,257500.0,2021.0,2000.0,122417.00078291811,Single Family Detached,Purchase,2.0,30,awesome
+157,2302722,FL,2,3,329000.0,2057.0,2006.0,6534.0,Single Family Detached,Purchase,2.0,29,awesome
+158,2301778,KY,2,3,179900.0,1160.0,1954.0,9147.6,Single Family Detached,Purchase,0.0,29,awesome
+159,2296899,VA,3,3,424950.0,2448.0,1956.0,46086.48,Single Family Detached,Purchase,0.0,29,awesome
+160,2295988,IA,3,3,189900.0,2332.0,1999.0,122417.00078291811,Other,Purchase,0.0,28,awesome
+161,2292986,FL,2,3,238700.0,1562.0,2004.0,122417.00078291811,Other,Purchase,0.0,0,bad
+162,2250102,AZ,2,3,1695.0,1412.0,2003.0,122417.00078291811,Apartment,Rent,0.0,12,good
+163,2232782,OR,4,3,385000.0,1656.0,1992.0,7405.2,Single Family Detached,Purchase,0.0,29,awesome
+164,2232711,OR,3,3,595000.0,1779.0,1992.0,71438.4,Single Family Detached,Purchase,0.0,29,awesome
+165,2227521,FL,2,2,49500.0,1203.0,1961.0,7840.8,Single Family Detached,Purchase,2.0,29,awesome
+166,2221403,AL,4,3,409900.0,2909.0,2004.0,130680.0,Single Family Detached,Purchase,0.0,35,awesome
+167,2221037,AZ,2,2,1800.0,954.0,1986.0,122417.00078291811,Townhouse,Rent,0.0,50,awesome
+168,2219268,FL,1,1,1000.0,2084.289256198347,1957.0,122417.00078291811,Duplex,Rent,0.0,0,bad
+169,2218395,NY,1,1,1150000.0,2084.289256198347,1987.0,122417.00078291811,Condominium,Purchase,0.0,11,good
+170,2217933,MI,1,2,89000.0,932.0,1941.0,7840.8,Single Family Detached,Purchase,0.0,11,good
+171,2214893,IL,1,2,1000.0,0.0,1957.0,122417.00078291811,Single Family Attached,Rent,1.0,11,good
+172,2214457,NY,3,4,3400.0,2084.289256198347,2014.0,122417.00078291811,Apartment,Rent,0.0,11,good
+173,2213178,FL,2,3,150000.0,1174.0,1999.0,4791.6,Single Family Detached,Purchase,1.0,11,good
+174,2213103,NJ,2,5,324500.0,2084.289256198347,1950.0,6930.4,Single Family Detached,Purchase,0.0,11,good
+175,2210925,KY,3,4,210000.0,2283.0,2001.0,20908.8,Single Family Detached,Purchase,2.0,29,awesome
+176,2210646,AL,2,3,98800.0,1300.0,1981.0,122417.00078291811,Single Family Detached,Purchase,0.0,12,good
+177,2200312,CA,2,2,70000.0,1248.0,1982.0,122417.00078291811,Mobile Home,Purchase,0.0,0,bad
+178,2192619,OR,1,3,210000.0,1122.0,1978.0,6969.6,Single Family Detached,Purchase,0.0,6,good
+179,2191629,NY,1,1,172500.0,650.0,1942.0,122417.00078291811,Stock Cooperative,Purchase,0.0,0,bad
+180,2184881,TN,2,3,374900.0,2150.0,1996.0,229561.2,Single Family Detached,Purchase,2.0,29,awesome
+181,2183953,NJ,2,2,359800.0,2044.0,2004.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+182,2183708,FL,2,3,134900.0,1600.0,1977.0,2613.6,Townhouse,Purchase,0.0,29,awesome
+184,2182634,TX,3,5,299900.0,3372.0,1967.0,9278.28,Single Family Detached,Purchase,2.0,8,good
+185,2175040,CA,2,2,136400.0,1293.0,1952.0,22215.6,Single Family Detached,Purchase,0.0,6,good
+186,2169894,TX,2,4,1725.0,1713.0,2018.0,122417.00078291811,Condominium,Purchase,0.0,0,bad
+187,2168789,FL,2,3,155000.0,1450.0,2010.0,23522.4,Manufactured Home,Purchase,0.0,8,good
+189,2151664,CA,2,3,2289.0,2084.289256198347,1962.0,14404.0,Condominium,Rent,0.0,7,good
+190,2147879,NY,2,4,2900.0,2000.0,2005.0,122417.00078291811,Single Family Detached,Rent,0.0,9,good
+191,2135883,NE,0,0,79900.0,1014.0,1922.0,122417.00078291811,Single Family Detached,Purchase,2.0,29,awesome
+193,2127363,OK,3,4,190000.0,1989.0,1979.0,122417.00078291811,Single Family Detached,Purchase,0.0,29,awesome
+194,2123677,DE,3,3,335990.0,2084.289256198347,2018.0,8276.4,Single Family Detached,Purchase,0.0,8,good
+196,2116136,MI,1,3,7500.0,2054.0,1928.0,4791.6,Single Family Detached,Purchase,0.0,1,bad
+197,2114532,WA,1,1,125000.0,476.0,1935.0,9147.6,Single Family Detached,Purchase,0.0,15,good
+198,2111650,IL,3,4,309900.0,2975.0,1999.0,10537.16,Single Family Detached,Purchase,3.0,29,awesome
+199,2111283,NY,3,4,965000.0,2084.289256198347,1955.0,4000.0,Single Family Detached,Purchase,0.0,15,good
+200,2111268,NY,1,1,790000.0,851.0,2013.0,122417.00078291811,Condominium,Purchase,0.0,14,good
+201,2102895,IA,2,0,4000.0,2084.289256198347,1900.0,122417.00078291811,Other,Rent,0.0,12,good
+202,2102145,SC,2,3,215334.0,2084.289256198347,2019.0,8712.0,Single Family Detached,Purchase,4.0,15,good
+203,2102054,AR,2,3,30000.0,1152.0,2003.0,122417.00078291811,Single Family Detached,Purchase,2.0,12,good
+204,2102050,AR,2,3,1025.0,1310.0,1974.0,122417.00078291811,Condominium,Rent,1.0,12,good
+205,2101755,CA,2,3,210000.0,0.0,2014.0,122417.00078291811,Mobile Home,Purchase,3.0,15,good
+206,2101752,CA,2,3,165900.0,1614.0,1948.0,6098.4,Single Family Detached,Purchase,0.0,15,good
+207,2095793,NC,2,2,255185.0,1796.0,2019.0,10454.4,Single Family Detached,Purchase,0.0,16,good
+209,2094698,NY,3,5,749000.0,0.0,1979.0,45302.4,Single Family Detached,Purchase,2.0,18,good
+210,2094273,IN,4,5,264000.0,3382.0,1958.0,37461.6,Single Family Detached,Purchase,2.0,16,good
+211,2094247,FL,2,3,1195000.0,1568.0,1967.0,10890.0,Single Family Detached,Purchase,2.0,16,good
+212,2092860,TN,2,3,64000.0,2084.289256198347,1970.0,6969.6,Single Family Detached,Purchase,1.0,16,good
+215,2073277,TX,2,4,200000.0,1744.0,1999.0,6621.12,Single Family Detached,Purchase,2.0,36,awesome
+216,2064438,FL,3,4,540000.0,2738.0,1995.0,20473.2,Single Family Detached,Purchase,3.0,29,awesome
+217,2061023,MD,1,2,1250.0,2084.289256198347,2017.0,122417.00078291811,Other,Purchase,0.0,0,bad
+218,2049543,VA,2,3,159900.0,1120.0,1980.0,1624.79,Single Family Detached,Purchase,0.0,29,awesome
+219,2047458,NC,2,3,139500.0,2084.289256198347,1962.0,122417.00078291811,Single Family Detached,Purchase,0.0,16,good
+220,2044964,AZ,2,3,347500.0,1540.0,1996.0,4645.98,Single Family Detached,Purchase,0.0,29,awesome
+221,2043395,CA,2,2,2395.0,1150.0,1962.0,10737.0,Condominium,Rent,1.0,0,bad
+222,2035084,IL,1,3,185000.0,1103.0,1954.0,4159.98,Single Family Detached,Purchase,2.0,21,good
+223,2034884,NY,3,4,975000.0,2216.0,1963.0,8436.0,Single Family Detached,Purchase,0.0,20,good
+224,2034251,FL,3,3,340000.0,2088.0,2006.0,1742.4,Townhouse,Purchase,2.0,39,awesome
+225,2034220,FL,2,3,235000.0,1482.0,1992.0,4356.0,Single Family Detached,Purchase,2.0,30,awesome
+226,2033981,FL,2,3,420000.0,2455.0,1979.0,15246.0,Single Family Detached,Purchase,2.0,31,awesome
+227,2032015,FL,2,3,199900.0,1716.0,1982.0,10062.36,Single Family Detached,Purchase,2.0,33,awesome
+228,2031580,VA,2,3,239900.0,1712.0,1974.0,112820.4,Single Family Detached,Purchase,0.0,39,awesome
+229,2024821,CO,2,4,1395.0,1821.0,1972.0,6298.78,Single Family Detached,Rent,1.0,35,awesome
+230,2024533,FL,2,2,141900.0,1045.0,1993.0,18730.8,Condominium,Purchase,1.0,32,awesome
+231,2024512,FL,2,3,205600.0,1720.0,1987.0,7405.2,Single Family Detached,Purchase,2.0,45,awesome
+232,2021519,FL,4,5,475000.0,2940.0,1993.0,122417.00078291811,Single Family Detached,Purchase,0.0,62,awesome
+233,2019984,NY,1,2,444888.0,2084.289256198347,1954.0,122417.00078291811,Stock Cooperative,Purchase,1.0,20,good
+234,2019840,NY,3,5,768000.0,2084.289256198347,2002.0,20473.0,Single Family Detached,Purchase,0.0,20,good
+235,2019304,MS,2,3,144900.0,1368.0,1995.0,91040.4,Single Family Detached,Purchase,0.0,42,awesome
+236,2018852,FL,2,3,205600.0,1720.0,1987.0,7405.2,Single Family Detached,Purchase,2.0,45,awesome
+237,2016506,KY,2,4,39900.0,1600.0,1987.0,21780.0,Manufactured Home,Purchase,0.0,30,awesome
+239,2015495,TN,2,3,154900.0,1456.0,1983.0,39204.0,Single Family Detached,Purchase,1.0,20,good
+240,2014972,KS,7,5,489500.0,6182.0,2000.0,18730.8,Single Family Detached,Purchase,3.0,46,awesome
+241,2014208,MI,3,3,209000.0,1912.0,1962.0,15986.52,Single Family Detached,Purchase,2.0,51,awesome
+242,2012297,NM,3,3,375000.0,2380.0,1995.0,108900.0,Single Family Detached,Purchase,2.0,43,awesome
+243,2012293,NM,4,5,480000.0,3711.0,1970.0,13503.6,Single Family Detached,Purchase,3.0,88,awesome
+244,2005679,TN,1,2,69900.0,918.0,1948.0,0.0,Other,Purchase,0.0,11,good
+245,1997481,NY,1,1,270000.0,800.0,1930.0,122417.00078291811,Apartment,Purchase,0.0,10,good
+246,1993007,IL,1,3,1350.0,1277.0,1960.0,122417.00078291811,Single Family Detached,Rent,1.0,20,good
+247,1992604,IL,2,4,349900.0,1245.0,1955.0,7496.68,Single Family Detached,Purchase,2.0,22,good
+248,1981674,FL,2,2,950.0,2084.289256198347,1983.0,122417.00078291811,Quadruplex,Rent,0.0,8,good
+249,1980695,AL,1,1,29000.0,576.0,2007.0,51836.4,Mobile Home,Purchase,0.0,8,good
+250,1975063,IA,1,2,57000.0,1020.0,1970.0,8712.0,Condominium,Purchase,0.0,20,good
+251,1969135,PA,1,5,74900.0,1980.0,1920.0,6098.4,Single Family Detached,Purchase,0.0,22,good
+252,1962076,MI,2,3,150000.0,1603.0,1900.0,11221.06,Single Family Detached,Purchase,2.0,40,awesome
+253,1960700,NC,2,3,169000.0,1300.0,1996.0,28314.0,Single Family Detached,Purchase,2.0,29,awesome
+254,1957414,MN,2,3,209900.0,1624.0,1961.0,10454.4,Single Family Detached,Purchase,1.0,29,awesome
+255,1956124,NJ,3,3,2200.0,0.0,1987.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+256,1955401,CO,1,2,109900.0,856.0,1952.0,5270.76,Single Family Detached,Purchase,1.0,22,good
+257,1953870,GA,3,5,549900.0,2084.289256198347,1889.0,27878.4,Single Family Detached,Purchase,0.0,24,good
+258,1953037,IL,1,2,1700.0,1300.0,1910.0,122417.00078291811,Single Family Attached,Rent,0.0,16,good
+259,1952182,FL,2,4,359900.0,1983.0,1984.0,8712.0,Single Family Detached,Purchase,2.0,43,awesome
+260,1951882,FL,3,2,169500.0,1289.0,2007.0,1742.4,Townhouse,Purchase,1.0,7,good
+261,1951851,FL,2,4,1695.0,1981.0,2004.0,5662.8,Single Family Detached,Rent,2.0,24,good
+262,1951231,NJ,3,3,849000.0,2084.289256198347,1958.0,117612.0,Single Family Detached,Purchase,2.0,22,good
+264,1949129,TN,1,2,129000.0,1473.0,1952.0,60984.0,Single Family Detached,Purchase,1.0,22,good
+265,1948502,MN,3,4,184900.0,2610.0,2004.0,3484.8,Townhouse,Purchase,2.0,34,awesome
+266,1947239,NC,2,3,104900.0,2084.289256198347,1979.0,122417.00078291811,Single Family Detached,Purchase,0.0,24,good
+267,1946771,FL,2,3,195000.0,1558.0,1980.0,13068.0,Single Family Detached,Purchase,2.0,29,awesome
+268,1946440,CT,1,2,90250.0,1248.0,1974.0,122417.00078291811,Condominium,Purchase,0.0,14,good
+269,1944541,AR,2,4,170000.0,1517.0,1995.0,142876.8,Single Family Detached,Purchase,0.0,29,awesome
+270,1938248,OR,3,4,665100.0,3356.0,1922.0,4791.6,Single Family Detached,Purchase,0.0,32,awesome
+272,1931182,TX,2,3,1750.0,1830.0,2016.0,7405.2,Single Family Detached,Rent,2.0,0,bad
+274,1921938,CA,4,3,979000.0,2182.0,1955.0,10019.0,Single Family Detached,Purchase,0.0,35,awesome
+275,1918246,MA,2,3,359900.0,1576.0,2005.0,122417.00078291811,Townhouse,Purchase,2.0,29,awesome
+276,1916927,FL,2,2,549000.0,1503.0,1981.0,122417.00078291811,Condominium,Purchase,0.0,25,good
+277,1915363,IN,2,4,9900.0,1832.0,1908.0,5000.69,Single Family Detached,Purchase,0.0,2,bad
+278,1910805,MO,2,3,145500.0,1714.0,1992.0,69696.0,Single Family Detached,Purchase,2.0,30,awesome
+279,1910044,KY,3,4,380000.0,3999.0,1991.0,11761.2,Single Family Detached,Purchase,2.0,61,awesome
+280,1909718,AL,3,4,314900.0,2544.0,2011.0,15681.6,Single Family Detached,Purchase,0.0,34,awesome
+281,1909447,GA,3,4,289000.0,2815.0,1989.0,14853.96,Single Family Detached,Purchase,0.0,36,awesome
+282,1909393,GA,2,3,139900.0,1395.0,1969.0,21780.0,Single Family Detached,Purchase,0.0,33,awesome
+283,1909201,GA,4,3,364900.0,2252.0,2015.0,236095.2,Single Family Detached,Purchase,0.0,36,awesome
+284,1909089,NM,2,3,168000.0,1610.0,2004.0,6098.4,Single Family Detached,Purchase,2.0,31,awesome
+285,1907923,KY,2,3,30900.0,1075.0,1111.0,43560.0,Single Family Detached,Purchase,0.0,23,good
+286,1906606,NJ,3,4,514000.0,2084.289256198347,2010.0,122417.00078291811,Condominium,Purchase,2.0,23,good
+287,1906592,NC,2,3,45000.0,2012.0,1930.0,41817.6,Single Family Detached,Purchase,0.0,29,awesome
+288,1900033,AZ,3,2,220000.0,1438.0,1995.0,5100.0,Single Family Detached,Purchase,0.0,29,awesome
+289,1893190,FL,1,3,24999.0,1639.0,1949.0,122417.00078291811,Single Family Detached,Purchase,0.0,7,good
+290,1892390,FL,1,2,99900.0,968.0,1977.0,7405.2,Single Family Detached,Purchase,0.0,35,awesome
+291,1863489,TX,2,3,1200.0,1083.0,2007.0,34848.0,Single Family Detached,Rent,0.0,16,good
+292,1855909,FL,2,2,147900.0,1197.0,1982.0,122417.00078291811,Other,Purchase,1.0,7,good
+293,1853137,MI,2,3,199900.0,2171.0,1966.0,12545.28,Single Family Detached,Purchase,2.0,29,awesome
+294,1845663,NV,2,3,215000.0,1330.0,2004.0,122417.00078291811,Condominium,Purchase,0.0,29,awesome
+295,1845647,NV,2,3,1650.0,1034.0,1994.0,4356.0,Other,Rent,0.0,29,awesome
+296,1845278,GA,3,4,214900.0,2200.0,1992.0,34848.0,Single Family Detached,Purchase,0.0,31,awesome
+297,1845268,GA,2,2,259900.0,0.0,2005.0,5227.2,Single Family Detached,Purchase,0.0,36,awesome
+298,1845262,GA,5,5,450000.0,0.0,1993.0,34020.36,Single Family Detached,Purchase,0.0,36,awesome
+299,1843634,CA,3,3,319000.0,2280.0,1979.0,3920.4,Condominium,Purchase,3.0,29,awesome
+300,1843049,CA,2,3,760000.0,1200.0,1963.0,6098.4,Single Family Detached,Purchase,2.0,33,awesome
+301,1829882,CA,8,7,35000.0,6970.0,1949.0,13100.0,Single Family Detached,Rent,9.0,35,awesome
+302,1820742,ME,1,3,219000.0,2084.289256198347,1973.0,43560.0,Single Family Detached,Purchase,0.0,22,good
+303,1819599,FL,3,4,330000.0,2757.0,1995.0,16988.4,Single Family Detached,Purchase,3.0,29,awesome
+304,1801836,KY,2,3,95000.0,1277.0,1988.0,174240.0,Single Family Detached,Purchase,0.0,15,good
+305,1788307,GA,3,4,320500.0,3078.0,2016.0,122417.00078291811,Single Family Detached,Purchase,0.0,29,awesome
+310,1783731,CA,3,3,395000.0,2623.0,2003.0,9626.76,Single Family Detached,Purchase,3.0,45,awesome
+311,1783723,CA,2,3,249900.0,1649.0,1996.0,8712.0,Single Family Detached,Purchase,3.0,30,awesome
+312,1783244,SC,2,4,194900.0,1999.0,2006.0,27007.2,Single Family Detached,Purchase,2.0,33,awesome
+313,1782074,NC,2,4,74500.0,1925.0,1930.0,13939.2,Single Family Detached,Purchase,0.0,28,awesome
+314,1781834,WA,3,4,369900.0,2103.0,1987.0,9147.6,Single Family Detached,Purchase,0.0,32,awesome
+316,1772303,FL,2,2,3400.0,2084.289256198347,2007.0,122417.00078291811,Condominium,Rent,1.0,16,good
+317,1771016,MO,3,3,185000.0,2084.289256198347,1989.0,122417.00078291811,Single Family Detached,Purchase,2.0,29,awesome
+318,1769619,GA,2,4,375000.0,0.0,1955.0,21780.0,Single Family Detached,Purchase,0.0,36,good
+319,1765880,AZ,2,3,224900.0,1176.0,1980.0,12196.8,Single Family Detached,Purchase,0.0,38,awesome
+320,1763082,SC,3,3,2200.0,2084.289256198347,2017.0,122417.00078291811,Other,Rent,0.0,36,good
+321,1754430,FL,2,2,210000.0,1148.0,1955.0,10454.4,Single Family Detached,Purchase,1.0,29,awesome
+322,1754329,OK,3,4,259000.0,2280.0,2011.0,122417.00078291811,Single Family Detached,Purchase,0.0,29,awesome
+323,1752268,FL,2,2,210000.0,1148.0,1955.0,10454.4,Single Family Detached,Purchase,1.0,29,awesome
+324,1749576,FL,2,3,1250.0,1339.0,2004.0,5227.2,Townhouse,Rent,2.0,11,good
+325,1746978,KS,3,3,215000.0,2159.0,1988.0,122417.00078291811,Single Family Detached,Purchase,0.0,29,awesome
+326,1741663,OH,2,3,154900.0,2084.289256198347,1954.0,122417.00078291811,Single Family Detached,Purchase,2.0,16,good
+327,1741090,CA,2,2,279000.0,1112.0,1981.0,5350.0,Single Family Detached,Purchase,0.0,20,good
+328,1740192,NY,4,4,622500.0,2240.0,1949.0,12483.0,Single Family Detached,Purchase,0.0,16,good
+329,1737788,MD,3,4,1575.0,2084.289256198347,1989.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+330,1732958,NC,5,5,600000.0,5509.0,1988.0,17859.6,Single Family Detached,Purchase,2.0,34,good
+331,1732693,CA,3,3,4995.0,1825.0,1924.0,7509.0,Single Family Detached,Rent,2.0,23,good
+332,1729981,VA,2,3,199900.0,1848.0,1990.0,57063.6,Single Family Detached,Purchase,1.0,36,good
+333,1728452,VA,1,3,160000.0,1028.0,1955.0,7405.2,Single Family Detached,Purchase,0.0,31,good
+334,1722102,FL,2,3,1750.0,2084.289256198347,1977.0,122417.00078291811,Townhouse,Rent,0.0,26,good
+335,1721770,MD,3,3,210000.0,2084.289256198347,1860.0,4356.0,Townhouse,Purchase,0.0,38,good
+337,1719408,TX,1,2,76000.0,881.0,1951.0,6534.0,Single Family Detached,Purchase,0.0,15,good
+338,1718807,GA,3,3,145000.0,0.0,1987.0,4356.0,Single Family Detached,Purchase,0.0,29,awesome
+339,1717851,IL,2,3,54500.0,1513.0,1920.0,122417.00078291811,Single Family Detached,Purchase,0.0,55,awesome
+340,1716717,OH,4,4,349900.0,3706.0,2008.0,13068.0,Single Family Detached,Purchase,2.0,41,good
+341,1716382,AR,3,4,249900.0,2825.0,2002.0,10018.8,Single Family Detached,Purchase,2.0,36,good
+343,1715320,MI,2,3,81500.0,1920.0,1989.0,122417.00078291811,Single Family Detached,Purchase,0.0,56,good
+344,1715264,OR,2,3,322000.0,1648.0,2007.0,6098.4,Single Family Detached,Purchase,2.0,35,good
+345,1714338,UT,4,5,399900.0,3538.0,2006.0,14810.4,Single Family Detached,Purchase,4.0,35,good
+346,1714327,UT,3,4,3900000.0,3076.0,1993.0,8276.4,Single Family Detached,Purchase,0.0,45,good
+347,1712580,RI,4,5,289900.0,5078.0,1940.0,7000.09,Other,Purchase,8.0,38,awesome
+348,1710876,KS,3,3,219900.0,2368.0,1997.0,7840.8,Single Family Detached,Purchase,0.0,30,good
+349,1710858,SC,2,3,172000.0,1893.0,1998.0,23086.8,Single Family Detached,Purchase,2.0,30,good
+350,1707204,WI,1,2,80000.0,768.0,1920.0,8276.4,Single Family Detached,Purchase,0.0,7,good
+351,1705998,FL,2,4,399999.0,2008.0,2000.0,6098.4,Single Family Detached,Purchase,2.0,50,awesome
+352,1699289,ME,2,3,237500.0,2160.0,1820.0,87120.0,Single Family Detached,Purchase,0.0,35,awesome
+353,1696423,FL,2,3,239000.0,1490.0,2004.0,11761.2,Single Family Detached,Purchase,2.0,50,awesome
+354,1695316,MI,2,3,235000.0,1600.0,1978.0,72309.6,Single Family Detached,Purchase,0.0,34,awesome
+355,1693196,VA,9,7,1999999.0,2084.289256198347,1988.0,218235.6,Single Family Detached,Purchase,0.0,30,good
+356,1693163,VA,5,4,972000.0,2084.289256198347,1973.0,48351.6,Single Family Detached,Purchase,0.0,31,good
+357,1692810,VA,5,5,879000.0,2084.289256198347,1988.0,122417.00078291811,Single Family Detached,Purchase,0.0,29,awesome
+358,1691728,FL,3,2,1800.0,1206.0,2003.0,122417.00078291811,Condominium,Purchase,0.0,30,good
+360,1690060,MO,3,3,159900.0,2300.0,1976.0,17424.0,Single Family Detached,Purchase,2.0,23,good
+361,1689239,NV,4,3,545000.0,2368.0,2006.0,8276.4,Single Family Detached,Purchase,0.0,39,good
+363,1684558,OH,3,2,149900.0,1248.0,1985.0,871.2,Condominium,Purchase,1.0,28,awesome
+364,1679791,FL,2,3,343900.0,1798.0,2005.0,8995.14,Single Family Detached,Purchase,2.0,20,good
+365,1679717,GA,4,5,330000.0,3346.0,2008.0,27442.8,Single Family Detached,Purchase,0.0,24,good
+366,1674317,MI,2,2,1650.0,1730.0,2002.0,122417.00078291811,Condominium,Rent,0.0,8,good
+367,1654337,FL,2,4,2275.0,2084.289256198347,1988.0,3484.8,Single Family Detached,Rent,0.0,23,good
+368,1644725,VA,3,3,99900.0,1584.0,1985.0,30056.4,Manufactured Home,Purchase,0.0,27,good
+371,1642593,WA,3,4,279500.0,2167.0,1955.0,6969.6,Single Family Detached,Purchase,0.0,22,good
+372,1642496,WA,3,5,339900.0,2114.0,1995.0,6534.0,Single Family Detached,Purchase,0.0,29,good
+373,1639184,FL,2,2,174900.0,1353.0,1957.0,8712.0,Single Family Detached,Purchase,1.0,40,awesome
+374,1639155,FL,1,2,279900.0,1244.0,1950.0,11325.6,Single Family Detached,Purchase,0.0,33,awesome
+375,1636675,OK,2,3,153900.0,1509.0,2005.0,10715.76,Single Family Detached,Purchase,2.0,22,good
+376,1635789,FL,2,3,124900.0,1250.0,2005.0,122417.00078291811,Condominium,Purchase,0.0,17,good
+377,1615338,IN,3,5,159900.0,2192.0,1995.0,12196.8,Single Family Detached,Purchase,2.0,19,good
+378,1604141,NV,2,3,205000.0,1377.0,2002.0,4356.0,Single Family Detached,Purchase,0.0,29,awesome
+379,1601692,NC,2,3,142900.0,1158.0,1980.0,14810.4,Single Family Detached,Purchase,1.0,14,good
+380,1590699,OK,2,4,214900.0,2148.0,2005.0,122417.00078291811,Single Family Detached,Purchase,2.0,17,good
+381,1577588,NE,2,3,94900.0,1725.0,1972.0,122417.00078291811,Single Family Detached,Purchase,2.0,13,good
+382,1574787,TX,2,3,194900.0,1681.0,1971.0,11282.04,Single Family Detached,Purchase,0.0,29,awesome
+383,1569493,FL,2,3,1375.0,1623.0,2006.0,122417.00078291811,Condominium,Rent,2.0,17,good
+384,1568418,CA,3,4,1050000.0,3023.0,1969.0,5920.0,Single Family Detached,Purchase,2.0,67,good
+385,1566094,IL,3,3,2300.0,0.0,1993.0,122417.00078291811,Single Family Detached,Rent,2.0,29,awesome
+386,1564361,IL,2,4,124900.0,1664.0,1876.0,10001.38,Single Family Detached,Purchase,1.0,32,good
+387,1562743,MA,2,4,299900.0,1980.0,1973.0,16117.2,Single Family Detached,Purchase,4.0,29,awesome
+388,1559175,FL,2,3,214900.0,1782.0,2005.0,6098.4,Single Family Detached,Purchase,2.0,16,good
+389,1552087,DC,2,2,3100.0,2084.289256198347,1951.0,122417.00078291811,Condominium,Rent,0.0,28,awesome
+390,1552078,MD,4,5,3900.0,2084.289256198347,1971.0,11103.01,Single Family Detached,Rent,0.0,28,awesome
+391,1552070,MD,3,4,220000.0,2084.289256198347,1955.0,4870.01,Single Family Detached,Purchase,0.0,28,awesome
+392,1552044,DC,3,2,2600.0,2084.289256198347,1987.0,122417.00078291811,Townhouse,Rent,0.0,28,awesome
+393,1551926,MD,3,4,845000.0,2084.289256198347,1970.0,12203.99,Single Family Detached,Purchase,0.0,28,awesome
+394,1551728,MD,2,3,214900.0,2084.289256198347,1940.0,122417.00078291811,Single Family Detached,Purchase,0.0,28,awesome
+395,1544385,NJ,1,3,1700.0,2084.289256198347,1900.0,9147.6,Single Family Attached,Rent,0.0,8,good
+396,1543795,NJ,1,2,950.0,2084.289256198347,1925.0,3049.2,Single Family Attached,Rent,0.0,8,good
+397,1537705,NM,3,3,189500.0,1440.0,1998.0,6098.4,Single Family Detached,Purchase,2.0,19,good
+398,1537534,GA,2,4,165000.0,1791.0,1999.0,122417.00078291811,Single Family Detached,Purchase,0.0,21,good
+399,1536926,FL,3,3,330000.0,2611.0,2014.0,7670.92,Single Family Detached,Purchase,2.0,21,good
+400,1533257,IL,3,3,140000.0,2280.0,2010.0,29620.8,Other,Purchase,0.0,29,awesome
+401,1530471,SC,2,3,139900.0,1302.0,1968.0,122417.00078291811,Single Family Detached,Purchase,0.0,29,awesome
+402,1529503,NC,2,3,299900.0,1007.0,1958.0,12632.4,Single Family Detached,Purchase,0.0,29,good
+403,1526465,TN,2,3,159900.0,1626.0,1960.0,122417.00078291811,Single Family Detached,Purchase,0.0,24,good
+404,1525138,AL,2,4,169900.0,2084.289256198347,2006.0,10454.4,Single Family Detached,Purchase,0.0,36,good
+405,1522200,AZ,2,3,3500.0,1645.0,1994.0,122417.00078291811,Townhouse,Rent,0.0,41,good
+406,1521878,AZ,3,4,585000.0,3192.0,2007.0,17511.99,Single Family Detached,Purchase,0.0,37,good
+407,1521479,AZ,2,4,260000.0,2041.0,2007.0,5750.01,Single Family Detached,Purchase,0.0,34,good
+408,1521318,AZ,3,4,619900.0,2489.0,1969.0,9087.01,Single Family Detached,Purchase,0.0,42,good
+409,1521021,SC,4,3,399900.0,2700.0,2017.0,21780.0,Single Family Detached,Purchase,2.0,37,good
+410,1520844,AZ,2,3,186000.0,1860.0,1989.0,87120.0,Single Family Detached,Purchase,2.0,39,good
+411,1516114,OH,1,3,74900.0,1008.0,1947.0,4861.3,Single Family Detached,Purchase,0.0,19,good
+413,1510247,SC,2,4,625000.0,1850.0,1930.0,2613.6,Duplex,Purchase,0.0,15,good
+415,1502569,VA,3,4,249900.0,2100.0,2018.0,122417.00078291811,Single Family Detached,Purchase,0.0,26,good
+417,1492519,MS,2,3,110000.0,1675.0,1983.0,43560.0,Single Family Detached,Purchase,0.0,42,good
+418,1472711,OK,2,3,48000.0,1169.0,1948.0,24829.2,Single Family Detached,Purchase,3.0,19,good
+419,1466659,WI,1,2,105000.0,1260.0,1920.0,11761.2,Single Family Detached,Purchase,0.0,20,good
+420,1451222,VA,3,3,129900.0,1280.0,1987.0,2613.6,Townhouse,Purchase,0.0,28,awesome
+421,1449737,MD,2,2,234900.0,2084.289256198347,1998.0,122417.00078291811,Condominium,Purchase,0.0,28,awesome
+422,1439269,AZ,1,4,109900.0,1300.0,1951.0,7549.99,Single Family Detached,Purchase,0.0,1,bad
+424,1425096,FL,2,3,499000.0,1779.0,1980.0,122417.00078291811,Other,Purchase,2.0,7,good
+425,1417696,TX,4,4,290000.0,3410.0,1982.0,14810.4,Single Family Detached,Purchase,3.0,17,good
+426,1407177,PA,2,3,259900.0,1490.0,2000.0,41991.84,Single Family Detached,Purchase,2.0,30,awesome
+428,1393029,AR,2,3,264900.0,1874.0,1992.0,14374.8,Single Family Detached,Purchase,2.0,40,awesome
+429,1391129,AZ,2,2,1000.0,864.0,1984.0,122417.00078291811,Single Family Attached,Rent,0.0,7,good
+430,1388735,OH,3,4,199000.0,1460.0,1950.0,21780.0,Other,Purchase,0.0,55,good
+431,1384804,UT,3,3,540000.0,2956.0,1993.0,10454.4,Single Family Detached,Purchase,2.0,23,good
+432,1379815,NC,1,3,229900.0,2084.289256198347,1926.0,10018.8,Single Family Detached,Purchase,1.0,30,awesome
+433,1379810,NC,3,4,279900.0,2084.289256198347,1997.0,9147.6,Single Family Detached,Purchase,2.0,30,awesome
+434,1379418,NC,3,4,174900.0,2084.289256198347,1999.0,17859.6,Single Family Detached,Purchase,2.0,30,awesome
+435,1379345,NC,4,3,350000.0,1407.0,1980.0,34412.4,Single Family Detached,Purchase,0.0,50,awesome
+436,1379211,CA,2,5,279700.0,1915.0,1974.0,8276.4,Single Family Detached,Purchase,0.0,57,awesome
+437,1379054,FL,2,3,220000.0,2502.0,1983.0,11325.6,Single Family Detached,Purchase,3.0,36,awesome
+438,1378910,FL,5,4,575000.0,2881.0,1993.0,6098.4,Single Family Detached,Purchase,2.0,36,good
+439,1378845,FL,2,3,249900.0,1786.0,1972.0,9147.6,Other,Purchase,2.0,33,awesome
+440,1378436,AZ,4,4,399995.0,2846.0,2015.0,7840.8,Single Family Detached,Purchase,2.0,32,awesome
+441,1378401,AZ,3,3,175000.0,1629.0,2004.0,4791.6,Single Family Detached,Purchase,2.0,41,awesome
+442,1378236,AZ,2,4,214999.0,1873.0,2003.0,8276.4,Single Family Detached,Purchase,2.0,42,awesome
+443,1378132,AZ,2,4,324900.0,2308.0,1990.0,8712.0,Single Family Detached,Purchase,2.0,37,awesome
+444,1378101,AZ,2,3,205600.0,1504.0,2008.0,6098.4,Single Family Detached,Purchase,2.0,41,awesome
+445,1378096,AZ,2,4,269900.0,1944.0,1998.0,14810.4,Single Family Detached,Purchase,2.0,44,awesome
+446,1377026,RI,1,2,925.0,940.0,1900.0,122417.00078291811,Apartment,Rent,0.0,7,good
+447,1372735,TX,12,4,724900.0,3068.0,2006.0,234047.88,Single Family Detached,Purchase,0.0,45,awesome
+449,1367654,WA,3,4,369900.0,3048.0,1958.0,10454.4,Single Family Detached,Purchase,0.0,20,good
+450,1357357,NY,1,0,1985.0,2084.289256198347,2018.0,122417.00078291811,Apartment,Rent,0.0,7,good
+451,1357160,NY,1,1,2300.0,2084.289256198347,2007.0,122417.00078291811,Condominium,Rent,0.0,7,good
+453,1354076,NY,1,1,4100.0,0.0,1983.0,122417.00078291811,Apartment,Rent,0.0,11,good
+454,1338858,FL,2,2,64900.0,1036.0,1984.0,122417.00078291811,Condominium,Purchase,0.0,15,good
+455,1328672,TX,3,4,1695.0,2312.0,2018.0,5706.36,Single Family Detached,Rent,2.0,20,good
+456,1328226,TX,3,3,2310.0,2692.0,2000.0,10541.52,Single Family Detached,Rent,2.0,21,good
+457,1318321,FL,2,3,349900.0,1705.0,1988.0,122417.00078291811,Single Family Detached,Purchase,0.0,42,awesome
+458,1318159,FL,2,4,208000.0,1927.0,2005.0,122417.00078291811,Single Family Detached,Purchase,0.0,30,awesome
+459,1318131,FL,3,4,270000.0,2640.0,2010.0,122417.00078291811,Single Family Detached,Purchase,0.0,91,awesome
+460,1317863,FL,1,1,775.0,750.0,1942.0,122417.00078291811,Quadruplex,Rent,1.0,7,good
+461,1316966,AZ,3,3,374000.0,1932.0,2006.0,3049.2,Townhouse,Purchase,2.0,30,awesome
+462,1315417,CA,0,0,489000.0,2084.289256198347,1953.0,8250.0,Other,Purchase,4.0,30,awesome
+463,1313624,ME,3,4,519000.0,3600.0,2004.0,42688.8,Single Family Detached,Purchase,0.0,35,awesome
+464,1313035,ME,2,3,219000.0,1166.0,1980.0,16117.2,Single Family Detached,Purchase,0.0,30,awesome
+465,1312210,ME,2,3,287900.0,2205.0,1800.0,653400.0,Single Family Detached,Purchase,0.0,35,awesome
+466,1311913,ME,5,3,230000.0,3434.0,1890.0,278784.0,Single Family Detached,Purchase,0.0,34,awesome
+467,1311191,ME,2,3,255000.0,1335.0,1972.0,10018.8,Single Family Detached,Purchase,0.0,35,awesome
+468,1310934,ME,2,3,189900.0,1492.0,1989.0,522720.0,Single Family Detached,Purchase,0.0,33,awesome
+470,1308347,IL,4,4,749000.0,0.0,1893.0,122417.00078291811,Single Family Detached,Purchase,2.0,31,awesome
+471,1307848,IL,3,4,405000.0,2340.0,1988.0,7683.98,Single Family Detached,Purchase,2.0,31,awesome
+472,1306327,IL,0,5,355000.0,2084.289256198347,1886.0,3920.4,Duplex,Purchase,2.0,36,awesome
+473,1306309,IL,3,3,304888.0,2850.0,1956.0,6751.8,Single Family Detached,Purchase,2.0,35,awesome
+474,1306031,IL,1,2,124900.0,1064.0,1973.0,122417.00078291811,Condominium,Purchase,1.0,37,awesome
+475,1306025,IL,2,3,189900.0,0.0,2002.0,6499.15,Single Family Detached,Purchase,4.0,35,awesome
+476,1305005,IL,2,3,2100.0,1809.0,1956.0,122417.00078291811,Single Family Detached,Rent,1.0,28,awesome
+477,1304736,NJ,2,3,214900.0,1756.0,1955.0,122417.00078291811,Single Family Detached,Purchase,0.0,28,awesome
+478,1304438,NJ,1,1,1500.0,2084.289256198347,1976.0,122417.00078291811,Other,Rent,0.0,28,awesome
+479,1302769,RI,3,3,499900.0,2665.0,2003.0,14810.4,Single Family Attached,Purchase,4.0,28,awesome
+480,1301485,NY,3,6,769000.0,2084.289256198347,1952.0,4000.0,Single Family Detached,Purchase,0.0,20,good
+481,1297461,NE,1,2,135900.0,1038.0,2004.0,3920.4,Townhouse,Purchase,2.0,28,awesome
+482,1294686,FL,2,3,179000.0,1444.0,1984.0,5227.2,Single Family Detached,Purchase,1.0,9,good
+483,1294674,FL,3,4,639900.0,2834.0,1958.0,15246.0,Single Family Detached,Purchase,0.0,28,awesome
+484,1292775,FL,2,3,180000.0,1626.0,1970.0,7405.2,Single Family Detached,Purchase,2.0,28,awesome
+485,1292764,FL,2,3,384500.0,1516.0,1979.0,8276.4,Single Family Detached,Purchase,2.0,28,awesome
+486,1291505,FL,2,3,149900.0,1523.0,1954.0,10890.0,Single Family Detached,Purchase,0.0,28,awesome
+487,1290412,FL,3,4,199900.0,1891.0,2009.0,6969.6,Single Family Detached,Purchase,2.0,28,awesome
+488,1285494,MO,1,2,23000.0,850.0,1944.0,5357.88,Single Family Detached,Purchase,1.0,24,good
+489,1280664,PA,3,4,364900.0,3050.0,1986.0,46609.2,Single Family Detached,Purchase,3.0,43,awesome
+490,1280288,PA,2,4,260000.0,1948.0,1964.0,8189.28,Single Family Detached,Purchase,2.0,50,awesome
+491,1279603,VA,13,4,1550.0,2084.289256198347,1986.0,122417.00078291811,Single Family Detached,Rent,0.0,28,awesome
+492,1279291,VA,3,3,285000.0,2084.289256198347,1974.0,1580.01,Townhouse,Purchase,0.0,28,awesome
+493,1273087,TX,0,0,200000.0,2014.0,1981.0,122417.00078291811,Duplex,Purchase,0.0,11,good
+494,1262477,FL,1,2,995.0,1352.0,1980.0,17424.0,Other,Rent,2.0,9,good
+495,1256177,NV,2,3,353999.0,1658.0,2004.0,5227.2,Single Family Detached,Purchase,0.0,29,good
+497,1238797,AL,1,2,9000.0,764.0,1948.0,122417.00078291811,Other,Purchase,0.0,0,bad
+499,1230809,NC,3,4,308000.0,2738.0,2016.0,8145.72,Single Family Detached,Purchase,2.0,25,good
+500,1227798,CA,2,4,294900.0,2142.0,2005.0,6970.0,Single Family Detached,Purchase,0.0,23,good
+501,1224382,OH,2,2,129900.0,1120.0,1901.0,17424.0,Single Family Detached,Purchase,1.0,16,good
+502,1223766,TX,3,4,224900.0,2210.0,2003.0,122417.00078291811,Single Family Detached,Purchase,4.0,31,awesome
+503,1223348,SC,3,3,303900.0,2084.289256198347,2002.0,122417.00078291811,Condominium,Purchase,0.0,38,awesome
+504,1219662,NY,3,4,539900.0,3278.0,2018.0,122417.00078291811,Single Family Detached,Purchase,0.0,15,good
+505,1218441,FL,4,3,1840000.0,2729.0,2018.0,13294.51,Single Family Detached,Purchase,3.0,15,good
+506,1202623,MN,1,3,139900.0,2344.0,1927.0,213444.0,Single Family Detached,Purchase,2.0,20,good
+507,1201556,CA,3,3,519000.0,2086.0,1987.0,122417.00078291811,Single Family Detached,Purchase,4.0,25,good
+508,1199259,FL,2,5,184900.0,1440.0,1961.0,122417.00078291811,Single Family Detached,Purchase,0.0,1,bad
+509,1198559,VA,1,2,50000.0,734.0,1986.0,122417.00078291811,Single Family Attached,Purchase,0.0,14,good
+510,1196264,TN,1,2,65000.0,1148.0,1900.0,122417.00078291811,Single Family Detached,Purchase,0.0,14,good
+511,1177154,IN,2,3,120000.0,1360.0,2000.0,122417.00078291811,Condominium,Purchase,2.0,14,good
+512,1163783,VA,5,5,519950.0,4304.0,2007.0,21662.39,Single Family Detached,Purchase,0.0,50,good
+513,1163202,SC,3,4,259000.0,2635.0,1993.0,122417.00078291811,Single Family Detached,Purchase,2.0,0,bad
+514,1159173,AL,1,3,49000.0,2084.289256198347,1937.0,130.68,Single Family Detached,Purchase,0.0,1,bad
+515,1157304,AZ,3,3,324950.0,2207.0,1995.0,8190.02,Single Family Detached,Purchase,0.0,0,bad
+516,1145855,NJ,5,5,764900.0,5253.0,2004.0,152024.4,Single Family Detached,Purchase,0.0,0,bad
+518,1143076,TX,3,2,1203331.0,1500.0,2006.0,17467560.0,Farm,Purchase,2.0,0,bad
+519,1131697,SD,2,3,294900.0,2084.289256198347,2018.0,44431.2,Single Family Detached,Purchase,1002.0,0,bad
+520,1131084,NJ,3,3,3500.0,0.0,1990.0,122417.00078291811,Townhouse,Rent,1.0,0,bad
+521,1128664,NJ,5,6,559000.0,2084.289256198347,2018.0,4791.6,Other,Purchase,3.0,0,bad
+523,1125912,GA,4,5,355962.0,2895.0,2018.0,18730.8,Single Family Detached,Purchase,0.0,0,bad
+525,1119662,MO,3,5,499900.0,3774.0,2018.0,217800.0,Single Family Detached,Purchase,0.0,36,good
+526,1119490,TN,2,1,144900.0,1356.0,2012.0,21780.0,Single Family Detached,Purchase,2.0,42,good
+527,1118239,CA,3,3,459000.0,1933.0,2008.0,3920.4,Single Family Detached,Purchase,2.0,48,good
+529,1113266,PR,1,3,55000.0,848.0,1955.0,350.0,Single Family Detached,Purchase,1.0,12,good
+530,1112889,TX,2,3,129900.0,1004.0,1951.0,13068.0,Single Family Detached,Purchase,0.0,0,bad
+531,1109697,WI,2,2,114900.0,864.0,1950.0,3310560.0,Single Family Detached,Purchase,0.0,13,good
+533,1108100,NY,3,3,899000.0,0.0,1935.0,784080.0,Single Family Attached,Purchase,1.0,0,bad
+534,1106614,TX,2,2,69900.0,1368.0,1933.0,17249.76,Single Family Detached,Purchase,0.0,0,bad
+535,1103262,NJ,2,4,125000.0,2084.289256198347,1892.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+536,1099407,PA,3,4,324900.0,1720.0,1968.0,18513.0,Single Family Detached,Purchase,2.0,24,good
+537,1097799,WA,3,4,575000.0,1910.0,1963.0,122417.00078291811,Single Family Detached,Purchase,0.0,24,good
+538,1097530,FL,2,1,1600.0,792.0,1968.0,122417.00078291811,Condominium,Rent,1.0,18,good
+539,1097339,IN,3,4,239900.0,3024.0,1999.0,151588.8,Single Family Detached,Purchase,2.0,24,good
+540,1097111,CO,2,4,299000.0,1728.0,1971.0,10018.8,Single Family Detached,Purchase,0.0,24,good
+541,1096361,TX,2,4,175000.0,2312.0,1950.0,13503.6,Single Family Detached,Purchase,2.0,24,good
+542,1096239,NJ,2,4,269000.0,2084.289256198347,1974.0,32670.0,Single Family Detached,Purchase,6.0,22,good
+543,1092657,WV,2,3,29900.0,2077.0,1900.0,122417.00078291811,Other,Purchase,0.0,0,bad
+545,1088733,AZ,2,4,1095.0,1860.0,2006.0,122417.00078291811,Single Family Detached,Rent,0.0,9,good
+546,1088524,AZ,2,2,135000.0,920.0,1991.0,2103.99,Other,Purchase,0.0,22,good
+547,1088150,AR,3,4,248900.0,2174.0,2005.0,8276.4,Single Family Detached,Purchase,0.0,27,good
+548,1082685,CA,4,5,579999.0,3474.0,2013.0,7405.0,Single Family Detached,Purchase,2.0,64,good
+549,1076859,VA,3,4,1850.0,2047.0,1987.0,122417.00078291811,Single Family Detached,Rent,0.0,26,good
+550,1076015,TN,5,4,609900.0,3850.0,2019.0,12196.8,Single Family Detached,Purchase,3.0,0,bad
+552,1069147,FL,2,2,29900.0,1430.0,1987.0,122417.00078291811,Mobile Home,Purchase,0.0,0,bad
+553,1068861,NY,2,4,439000.0,0.0,1967.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+554,1068395,NY,2,4,190000.0,1300.0,1925.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+555,1068393,NY,2,3,489000.0,1248.0,1940.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+556,1067286,TX,1,3,159000.0,910.0,1978.0,7448.76,Single Family Detached,Purchase,1.0,0,bad
+557,1066127,TX,6,4,5500.0,5393.0,2004.0,33976.8,Single Family Detached,Rent,3.0,0,bad
+558,1066126,TX,6,4,899000.0,5393.0,2004.0,33976.8,Single Family Detached,Purchase,3.0,0,bad
+560,1048972,WA,2,3,317950.0,1340.0,1986.0,122417.00078291811,Single Family Detached,Purchase,2.0,26,good
+561,1048815,GA,4,4,289000.0,3476.0,1995.0,122417.00078291811,Single Family Detached,Purchase,0.0,26,good
+562,1036101,IA,3,3,359500.0,1603.0,2018.0,9496.08,Single Family Detached,Purchase,0.0,0,bad
+564,1031635,WY,3,4,257500.0,2084.289256198347,2014.0,4791.6,Single Family Attached,Purchase,2.0,0,bad
+565,1030684,NY,3,4,426000.0,2450.0,2018.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+567,1023664,AL,2,4,55000.0,1648.0,1930.0,122417.00078291811,Single Family Detached,Purchase,0.0,1,bad
+568,1018340,NJ,0,0,499900.0,0.0,2018.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+569,1018323,NJ,7,11,2999999.0,6100.0,1907.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+570,1017444,MO,4,5,399900.0,6900.0,1980.0,261360.0,Single Family Detached,Purchase,6.0,1,bad
+571,1017098,NE,0,0,99999.0,2084.289256198347,1922.0,122417.00078291811,Other,Purchase,0.0,1,bad
+572,1017021,NY,1,2,560000.0,662.0,2017.0,122417.00078291811,Condominium,Purchase,0.0,1,bad
+573,1017020,NY,1,2,680000.0,834.0,2017.0,122417.00078291811,Condominium,Purchase,0.0,1,bad
+574,1016812,FL,2,3,82500.0,1368.0,2006.0,122417.00078291811,Mobile Home,Purchase,2.0,0,bad
+576,1005748,OR,1,2,120000.0,1091.0,1939.0,15246.0,Single Family Detached,Purchase,0.0,1,bad
+578,1004764,HI,0,0,999000.0,2403.0,1987.0,122417.00078291811,Other,Purchase,8.0,0,bad
+579,1001661,GA,3,4,169900.0,2035.0,2006.0,122417.00078291811,Single Family Detached,Purchase,0.0,1,bad
+580,1000207,MI,3,5,178000.0,2026.0,2007.0,122417.00078291811,Other,Purchase,0.0,0,bad
+581,1000110,CA,0,3,1395000.0,1667.0,1937.0,2613.6,Other,Purchase,1.0,1,bad
+585,992011,GA,6,6,275000.0,7800.0,1979.0,33541.2,Other,Purchase,2.0,1,bad
+586,991779,TN,1,3,40000.0,1036.0,1950.0,122417.00078291811,Single Family Detached,Purchase,0.0,1,bad
+587,991203,NC,3,4,260358.0,2084.289256198347,2018.0,1742.4,Townhouse,Purchase,2.0,1,bad
+588,990975,WY,1,3,160000.0,1020.0,1971.0,39204.0,Single Family Detached,Purchase,0.0,10,good
+589,990468,GA,2,2,160000.0,1140.0,1971.0,122417.00078291811,Single Family Detached,Purchase,3.0,1,bad
+590,988779,VA,1,3,39900.0,2084.289256198347,1970.0,420354.0,Single Family Detached,Purchase,0.0,1,bad
+591,983301,FL,1,1,775.0,725.0,1982.0,165528.0,Apartment,Rent,0.0,1,bad
+592,982351,NE,0,5,519233.0,2936.0,2019.0,122417.00078291811,Single Family Detached,Purchase,3.0,0,bad
+594,980113,OK,2,3,575000.0,1986.0,1974.0,120225.6,Single Family Detached,Purchase,1.0,0,bad
+595,979884,NH,3,3,329900.0,1840.0,2018.0,256132.8,Single Family Detached,Purchase,2.0,1,bad
+598,976289,IL,2,2,80000.0,1100.0,1970.0,122417.00078291811,Condominium,Purchase,0.0,1,bad
+599,976097,NJ,1,2,113000.0,2084.289256198347,1986.0,122417.00078291811,Condominium,Purchase,0.0,0,bad
+600,975909,NJ,2,3,975000.0,2084.289256198347,1975.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+601,975277,NY,1,3,649000.0,2084.289256198347,1950.0,2125.0,Single Family Detached,Purchase,0.0,1,bad
+602,973708,FL,2,3,269900.0,1508.0,2019.0,10018.8,Single Family Detached,Purchase,3.0,1,bad
+603,972861,FL,4,4,2050.0,2028.0,2006.0,1306.8,Townhouse,Rent,2.0,28,good
+605,970438,VA,1,3,94500.0,2084.289256198347,1947.0,7501.03,Single Family Detached,Purchase,0.0,1,bad
+606,969912,TX,2,3,209000.0,1676.0,1965.0,122417.00078291811,Single Family Detached,Purchase,0.0,11,good
+608,969210,KY,2,3,169900.0,1505.0,2018.0,122417.00078291811,Single Family Detached,Purchase,0.0,1,bad
+610,969142,WV,1,2,117500.0,1026.0,1970.0,122417.00078291811,Other,Purchase,0.0,1,bad
+611,968996,TN,2,3,82500.0,1620.0,2001.0,91476.0,Mobile Home,Purchase,4.0,1,bad
+612,968766,NC,3,4,365000.0,2719.0,2018.0,612453.6,Single Family Detached,Purchase,0.0,1,bad
+613,965630,NV,2,2,275000.0,1687.0,1994.0,6534.0,Single Family Detached,Purchase,0.0,1,bad
+614,964448,NY,0,0,149900.0,4733.0,1900.0,47916.0,Other,Purchase,0.0,1,bad
+615,964024,GA,1,3,17500.0,1404.0,1968.0,7840.8,Single Family Detached,Purchase,0.0,1,bad
+616,964023,GA,1,2,15000.0,750.0,1960.0,7840.8,Single Family Detached,Purchase,0.0,1,bad
+617,964022,GA,1,2,17500.0,750.0,1960.0,7840.8,Single Family Detached,Purchase,0.0,1,bad
+618,964021,GA,1,2,30000.0,864.0,1950.0,12196.8,Single Family Detached,Purchase,0.0,1,bad
+619,964020,GA,1,2,15000.0,940.0,1960.0,7840.8,Single Family Detached,Purchase,0.0,1,bad
+620,963522,GA,3,3,216325.0,1855.0,2018.0,40075.2,Single Family Detached,Purchase,0.0,1,bad
+621,963023,FL,2,3,238990.0,1864.0,2018.0,11112.16,Single Family Detached,Purchase,2.0,1,bad
+622,963022,FL,2,3,217990.0,1413.0,2018.0,10018.8,Single Family Detached,Purchase,2.0,1,bad
+623,962959,FL,2,2,6500.0,1000.0,2003.0,122417.00078291811,Condominium,Purchase,1.0,1,bad
+624,961879,NC,2,3,115000.0,2084.289256198347,1995.0,122417.00078291811,Mobile Home,Purchase,0.0,0,bad
+625,961792,NC,2,3,116000.0,2084.289256198347,1983.0,122417.00078291811,Single Family Detached,Purchase,1.0,0,bad
+626,961664,PR,1,3,89900.0,922.0,1988.0,122417.00078291811,Other,Purchase,0.0,0,bad
+627,961618,IN,2,3,67500.0,2270.0,1904.0,122417.00078291811,Other,Purchase,0.0,0,bad
+628,961057,IA,5,4,550000.0,3000.0,2019.0,13329.36,Single Family Detached,Purchase,0.0,0,bad
+630,959790,SC,2,4,65000.0,1728.0,2001.0,20037.6,Other,Purchase,0.0,0,bad
+631,959332,NC,2,2,249900.0,1494.0,1940.0,7405.2,Single Family Detached,Purchase,3.0,1,bad
+632,958172,NC,2,3,188000.0,2084.289256198347,1960.0,122417.00078291811,Single Family Detached,Purchase,0.0,1,bad
+635,941708,NY,3,6,599000.0,2640.0,1906.0,2992.57,Single Family Detached,Purchase,0.0,11,good
+636,934403,MI,3,3,280000.0,1600.0,2018.0,47480.4,Single Family Detached,Purchase,3.0,24,good
+637,920633,CA,2,3,275000.0,1504.0,1985.0,122417.00078291811,Single Family Detached,Purchase,6.0,1,bad
+638,884442,MI,2,2,6500.0,1032.0,2006.0,122417.00078291811,Condominium,Purchase,1.0,8,bad
+639,875887,IN,1,2,99900.0,952.0,1952.0,7187.4,Single Family Detached,Purchase,2.0,17,good
+640,841773,MO,2,3,47900.0,1656.0,1910.0,122417.00078291811,Single Family Detached,Purchase,1.0,11,good
+641,834169,TX,2,3,199900.0,1134.0,2018.0,9147.6,Single Family Detached,Purchase,0.0,0,bad
+642,831235,FL,3,4,314900.0,1984.0,2006.0,10890.0,Single Family Detached,Purchase,0.0,18,good
+643,789938,FL,6,4,565000.0,4310.0,2002.0,122417.00078291811,Single Family Detached,Purchase,2.0,30,good
+644,776574,VA,3,5,369900.0,3500.0,2004.0,122417.00078291811,Single Family Detached,Purchase,0.0,30,good
+645,768970,TN,4,0,599000.0,8030.0,1983.0,122417.00078291811,Other,Purchase,0.0,0,bad
+646,767240,TN,3,3,319900.0,1976.0,2018.0,55756.8,Single Family Detached,Purchase,2.0,0,bad
+647,766701,TN,1,4,180000.0,1264.0,1961.0,20908.8,Single Family Detached,Purchase,0.0,0,bad
+648,765840,TN,3,4,343783.0,3000.0,2018.0,218235.6,Single Family Detached,Purchase,2.0,0,bad
+649,765740,TN,2,0,195000.0,900.0,1962.0,122417.00078291811,Duplex,Purchase,1.0,0,bad
+650,765366,TN,1,3,159900.0,1316.0,1960.0,43995.6,Single Family Detached,Purchase,1.0,0,bad
+651,764784,NY,3,3,1995000.0,1481.0,1989.0,122417.00078291811,Apartment,Purchase,0.0,11,good
+652,762426,MI,2,2,25000.0,975.0,1938.0,3484.8,Single Family Detached,Purchase,0.0,1,bad
+653,760620,MI,3,3,240000.0,2200.0,1958.0,8712.0,Single Family Detached,Purchase,0.0,1,bad
+654,751321,WI,2,3,430000.0,2816.0,2008.0,65340.0,Single Family Detached,Purchase,0.0,14,good
+655,749798,WI,1,3,102000.0,1080.0,1923.0,11761.2,Single Family Detached,Purchase,0.0,16,good
+656,749790,WI,1,2,50000.0,894.0,1875.0,2613.6,Single Family Detached,Purchase,0.0,16,good
+657,748045,WI,1,2,144900.0,960.0,1968.0,566280.0,Single Family Detached,Purchase,0.0,14,good
+658,747618,WI,2,0,81900.0,1918.0,1925.0,10890.0,Duplex,Purchase,0.0,14,good
+659,747240,WI,3,3,279900.0,2223.0,2004.0,18295.2,Single Family Detached,Purchase,0.0,14,good
+660,742351,TX,2,3,144900.0,1272.0,2001.0,122417.00078291811,Single Family Attached,Purchase,2.0,14,good
+661,738134,PA,6,4,975000.0,4865.0,2008.0,15246.0,Single Family Detached,Purchase,0.0,19,good
+663,734975,NJ,4,4,583250.0,3000.0,1979.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+664,734872,NJ,5,5,1799000.0,0.0,1930.0,566280.0,Single Family Detached,Purchase,0.0,0,bad
+665,730776,PA,0,0,79000.0,1575.0,1881.0,3484.8,Duplex,Purchase,0.0,1,bad
+666,716034,IL,1,2,5900.0,1241.0,1920.0,3920.4,Single Family Detached,Purchase,0.0,1,bad
+667,710538,NY,2,3,97000.0,1301.0,1920.0,3484.8,Single Family Detached,Purchase,1.0,18,good
+668,708314,OK,2,3,259900.0,2576.0,1977.0,592851.6,Single Family Detached,Purchase,0.0,1,bad
+669,705627,OK,1,2,75900.0,1037.0,1984.0,122417.00078291811,Duplex,Purchase,0.0,1,bad
+670,705626,OK,1,2,59900.0,800.0,1940.0,122417.00078291811,Single Family Detached,Purchase,0.0,1,bad
+671,701572,NE,4,4,419000.0,3318.0,2018.0,122417.00078291811,Single Family Detached,Purchase,3.0,0,bad
+672,701275,NE,2,3,332000.0,1596.0,2018.0,122417.00078291811,Single Family Detached,Purchase,3.0,1,bad
+673,700870,NE,3,5,306345.0,2573.0,2019.0,122417.00078291811,Single Family Detached,Purchase,3.0,0,bad
+674,694530,NY,0,0,550000.0,0.0,1899.0,122417.00078291811,Duplex,Purchase,0.0,0,bad
+676,692082,NY,1,3,145000000.0,1400.0,1930.0,1089000.0,Single Family Detached,Purchase,0.0,0,bad
+677,690197,NY,2,4,169900.0,0.0,1986.0,122417.00078291811,Single Family Detached,Purchase,2.0,0,bad
+678,690195,NY,2,3,84900.0,1648.0,1890.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+680,689463,NY,2,4,230000.0,0.0,1950.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+681,689427,NY,3,7,310000.0,3162.0,2006.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+682,687689,LA,2,3,140000.0,2300.0,1920.0,122417.00078291811,Single Family Detached,Purchase,3.0,20,good
+683,687271,LA,1,3,7500.0,1692.0,1955.0,122417.00078291811,Single Family Detached,Purchase,1.0,1,bad
+684,681851,TX,2,3,357500.0,2708.0,2007.0,130680.0,Single Family Detached,Purchase,2.0,0,bad
+685,674417,TX,2,3,240000.0,1667.0,1975.0,7579.44,Single Family Detached,Purchase,2.0,20,good
+686,672941,TX,4,4,275000.0,2632.0,2012.0,8145.72,Single Family Detached,Purchase,2.0,29,good
+687,669927,TX,5,5,975000.0,4957.0,1999.0,11761.2,Single Family Detached,Purchase,3.0,1,bad
+688,660466,TX,2,3,850000.0,1886.0,1963.0,173543.04,Single Family Detached,Purchase,4.0,0,bad
+689,656332,TX,3,3,345900.0,1856.0,2018.0,2482.92,Townhouse,Purchase,2.0,0,bad
+690,652270,OK,4,5,285000.0,4009.0,1998.0,10410.84,Single Family Detached,Purchase,2.0,11,good
+691,651530,OK,2,3,82800.0,1104.0,1999.0,9147.6,Single Family Detached,Purchase,1.0,0,bad
+692,651345,OK,2,3,186000.0,1500.0,2016.0,43560.0,Single Family Detached,Purchase,2.0,0,bad
+693,649697,OK,5,6,295000.0,5897.0,1958.0,44866.8,Single Family Detached,Purchase,4.0,0,bad
+694,647715,LA,0,0,4880.0,11712.0,2019.0,122417.00078291811,Other,Purchase,0.0,1,bad
+695,647644,LA,0,0,305.0,2084.289256198347,1984.0,122417.00078291811,Other,Purchase,0.0,1,bad
+696,647640,LA,0,0,305.0,2084.289256198347,1984.0,122417.00078291811,Other,Purchase,0.0,1,bad
+697,647635,LA,0,0,305.0,2084.289256198347,1984.0,122417.00078291811,Other,Purchase,0.0,1,bad
+698,647629,LA,0,0,305.0,2084.289256198347,1984.0,122417.00078291811,Other,Purchase,0.0,1,bad
+699,647622,LA,0,0,305.0,2084.289256198347,1984.0,122417.00078291811,Other,Purchase,0.0,1,bad
+700,647620,LA,0,0,305.0,2084.289256198347,1984.0,122417.00078291811,Other,Purchase,0.0,1,bad
+701,647605,LA,0,0,305.0,2084.289256198347,1984.0,122417.00078291811,Other,Purchase,0.0,1,bad
+702,647602,LA,0,0,305.0,2084.289256198347,1984.0,122417.00078291811,Other,Purchase,0.0,1,bad
+703,638209,VT,2,3,149000.0,1656.0,1850.0,10890.0,Single Family Detached,Purchase,0.0,21,good
+704,637373,VT,1,3,235000.0,864.0,1965.0,49658.4,Single Family Detached,Purchase,0.0,15,good
+705,629849,TX,4,4,285.0,2366.0,1991.0,122417.00078291811,Other,Purchase,0.0,1,bad
+706,625119,OH,2,4,124900.0,1388.0,1930.0,4948.42,Single Family Detached,Purchase,2.0,34,good
+707,613690,OH,2,4,82500.0,1620.0,1927.0,4809.02,Duplex,Purchase,2.0,11,good
+708,603259,MS,3,3,164500.0,1340.0,2004.0,122417.00078291811,Condominium,Purchase,0.0,18,good
+709,574673,CA,2,3,350000.0,1243.0,2009.0,7405.0,Single Family Detached,Purchase,2.0,16,good
+710,571235,ME,1,2,189000.0,1618.0,2004.0,152460.0,Single Family Detached,Purchase,0.0,22,good
+711,546008,IL,0,0,120000.0,2084.289256198347,1907.0,122417.00078291811,Duplex,Purchase,0.0,1,bad
+712,539611,IL,2,3,650000.0,2000.0,1899.0,122417.00078291811,Condominium,Purchase,1.0,20,good
+713,537403,IL,1,2,69900.0,750.0,1970.0,122417.00078291811,Condominium,Purchase,2.0,19,good
+715,531822,NJ,2,3,439000.0,2100.0,1958.0,80150.4,Single Family Detached,Purchase,0.0,30,good
+716,529071,NJ,2,3,149900.0,1326.0,1988.0,871.2,Townhouse,Purchase,0.0,0,bad
+717,524824,MA,3,4,599500.0,2400.0,2018.0,16117.2,Single Family Detached,Purchase,4.0,21,good
+718,519451,NY,4,5,1399000.0,3700.0,1948.0,10230.0,Single Family Detached,Purchase,0.0,20,good
+719,510949,NY,3,5,1129000.0,2084.289256198347,2014.0,16000.0,Single Family Detached,Purchase,0.0,20,good
+720,492455,IN,4,5,209900.0,3200.0,2016.0,6716.95,Single Family Detached,Purchase,0.0,21,good
+721,478138,FL,1,2,159900.0,882.0,1954.0,6969.6,Single Family Detached,Purchase,1.0,16,good
+722,462581,WI,1,3,89900.0,1056.0,1936.0,4791.6,Single Family Detached,Purchase,2.0,15,good
+723,460005,WI,2,4,775000.0,1844.0,1982.0,19166.4,Single Family Detached,Purchase,1.0,25,good
+724,458894,NJ,3,4,469000.0,2084.289256198347,1987.0,8485.49,Single Family Detached,Purchase,2.0,25,good
+725,456097,ID,2,3,2500.0,1330.0,1981.0,122417.00078291811,Timeshare,Purchase,1.0,8,bad
+726,450003,MO,3,3,75000.0,1476.0,2000.0,10454.4,Single Family Detached,Purchase,2.0,10,good
+727,448890,MO,2,3,136000.0,1056.0,1995.0,8755.56,Single Family Detached,Purchase,1.0,24,good
+729,444074,MO,3,3,84900.0,1972.0,1968.0,122417.00078291811,Single Family Detached,Purchase,9.0,24,good
+730,442533,MO,2,3,133000.0,1000.0,1958.0,9016.92,Single Family Detached,Purchase,1.0,10,good
+731,438782,TN,1,3,68000.0,2084.289256198347,1934.0,122417.00078291811,Single Family Detached,Purchase,0.0,1,bad
+732,437718,AL,2,3,199900.0,1600.0,2018.0,37026.0,Single Family Detached,Purchase,0.0,0,bad
+733,431540,VA,3,3,389800.0,2084.289256198347,2009.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+734,431537,VA,3,4,259000.0,2084.289256198347,1985.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+736,411363,NM,2,2,85000.0,1078.0,1988.0,501811.2,Single Family Detached,Purchase,0.0,0,bad
+737,411351,NM,3,4,219950.0,1807.0,2018.0,5662.8,Single Family Detached,Purchase,2.0,0,bad
+738,408372,TX,4,4,390000.0,3033.0,1993.0,247203.0,Single Family Detached,Purchase,2.0,25,good
+739,406210,WA,2,3,199000.0,1399.0,2003.0,122417.00078291811,Other,Purchase,0.0,18,good
+740,404828,WA,3,4,725000.0,2775.0,1995.0,122417.00078291811,Single Family Attached,Purchase,3.0,21,good
+742,391525,TX,1,3,399000.0,1088.0,1930.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+743,385738,TX,2,2,45000.0,1089.0,1973.0,122417.00078291811,Condominium,Purchase,0.0,10,good
+744,376026,TN,3,3,250000.0,2914.0,1983.0,122417.00078291811,Single Family Detached,Purchase,2.0,40,good
+745,375126,TN,3,5,448492.0,3362.0,2017.0,122417.00078291811,Single Family Detached,Purchase,2.0,0,bad
+746,374706,TN,2,3,197400.0,1572.0,2013.0,74923.2,Single Family Detached,Purchase,2.0,28,good
+747,374031,TN,1,2,80000.0,960.0,1974.0,15681.6,Single Family Detached,Purchase,0.0,0,bad
+748,372558,TN,3,3,200000.0,2464.0,1994.0,14374.8,Single Family Detached,Purchase,2.0,28,good
+749,370171,NC,2,3,160000.0,1372.0,2011.0,19166.4,Single Family Detached,Purchase,0.0,28,good
+750,370099,NC,3,4,219900.0,2021.0,2013.0,26571.6,Single Family Detached,Purchase,0.0,28,good
+751,364847,ID,3,2,1200.0,980.0,1991.0,122417.00078291811,Condominium,Purchase,1.0,8,bad
+752,364842,ID,3,2,2500.0,980.0,1991.0,122417.00078291811,Condominium,Purchase,1.0,8,bad
+753,363967,ID,4,4,599000.0,5533.0,1999.0,116305.2,Single Family Detached,Purchase,6.0,18,good
+754,361002,CA,3,4,329700.0,1762.0,1974.0,7840.8,Single Family Detached,Purchase,0.0,29,good
+755,360814,AR,4,3,439500.0,2308.0,2006.0,122417.00078291811,Single Family Detached,Purchase,2.0,18,good
+756,360271,AR,2,3,149900.0,1692.0,1978.0,122417.00078291811,Single Family Detached,Purchase,2.0,20,good
+757,360085,VA,2,3,269900.0,1533.0,2018.0,33976.8,Single Family Detached,Purchase,2.0,20,good
+758,359050,MO,4,4,229000.0,2382.0,2000.0,8712.0,Single Family Detached,Purchase,2.0,29,good
+759,358112,KS,0,0,220000.0,2084.289256198347,2006.0,122417.00078291811,Duplex,Purchase,2.0,0,bad
+760,358093,KS,3,3,210000.0,1623.0,2018.0,122417.00078291811,Townhouse,Purchase,2.0,0,bad
+761,358091,KS,3,3,210000.0,1623.0,2018.0,122417.00078291811,Townhouse,Purchase,2.0,0,bad
+762,358090,KS,3,3,210000.0,1623.0,2018.0,122417.00078291811,Townhouse,Purchase,2.0,0,bad
+763,355946,KS,4,4,295000.0,2084.289256198347,2018.0,122417.00078291811,Single Family Detached,Purchase,3.0,0,bad
+764,333042,NJ,2,6,60000.0,2084.289256198347,1928.0,4356.0,Other,Purchase,2.0,1,bad
+765,331155,NJ,2,5,150000.0,2084.289256198347,1923.0,2613.6,Other,Purchase,4.0,1,bad
+766,328621,NJ,2,2,120000.0,2084.289256198347,1920.0,3049.2,Single Family Detached,Purchase,0.0,1,bad
+767,325505,TN,3,3,369900.0,2360.0,1990.0,18295.2,Single Family Detached,Purchase,2.0,20,good
+768,316936,MI,2,3,229900.0,1916.0,1996.0,12702.1,Single Family Detached,Purchase,2.0,27,good
+769,296862,GA,2,3,214900.0,1790.0,2018.0,6534.0,Single Family Detached,Purchase,0.0,0,bad
+771,280824,GA,3,3,159900.0,1750.0,1987.0,134164.8,Single Family Detached,Purchase,0.0,26,good
+772,280334,GA,3,3,319900.0,3000.0,1980.0,376358.4,Single Family Detached,Purchase,0.0,0,bad
+773,276364,GA,1,3,249900.0,0.0,1945.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+774,274602,GA,5,5,579000.0,0.0,2002.0,19166.4,Single Family Detached,Purchase,0.0,0,bad
+775,273566,GA,3,2,3500.0,1563.0,2008.0,122417.00078291811,Single Family Attached,Rent,0.0,0,bad
+776,273166,GA,3,3,800.0,0.0,1974.0,122417.00078291811,Single Family Attached,Rent,0.0,14,good
+777,269273,GA,2,3,175000.0,1540.0,1989.0,78408.0,Single Family Detached,Purchase,0.0,15,good
+778,259270,IA,0,0,980.0,2084.289256198347,1971.0,122417.00078291811,Other,Rent,0.0,0,bad
+779,253506,FL,1,1,800.0,2084.289256198347,1971.0,122417.00078291811,Single Family Attached,Rent,0.0,10,good
+780,250181,GA,4,4,314990.0,3004.0,2018.0,19166.4,Single Family Detached,Purchase,0.0,0,bad
+781,249121,GA,4,5,2500.0,2658.0,2003.0,122417.00078291811,Single Family Detached,Rent,0.0,36,good
+782,243028,GA,3,2,1250.0,1232.0,1986.0,122417.00078291811,Townhouse,Rent,0.0,11,good
+783,232446,GA,1,2,59900.0,1002.0,1947.0,8276.4,Single Family Detached,Purchase,0.0,0,bad
+784,230602,GA,3,4,204900.0,2592.0,2006.0,9082.26,Single Family Detached,Purchase,0.0,0,bad
+785,228478,GA,2,3,114900.0,1259.0,1971.0,19602.0,Single Family Detached,Purchase,0.0,1,bad
+786,221791,NC,3,4,249000.0,2084.289256198347,1977.0,122417.00078291811,Single Family Detached,Purchase,2.0,0,bad
+787,221426,NC,2,3,46500.0,2084.289256198347,1975.0,122417.00078291811,Single Family Detached,Purchase,1.0,0,bad
+788,219548,MI,1,1,3500.0,480.0,1926.0,122417.00078291811,Single Family Detached,Purchase,0.0,1,bad
+789,219403,MI,1,3,9900.0,1435.0,1952.0,6969.6,Single Family Detached,Purchase,0.0,1,bad
+790,219401,MI,1,2,8900.0,768.0,1956.0,6098.4,Single Family Detached,Purchase,0.0,1,bad
+791,219400,MI,1,2,8900.0,768.0,1956.0,5227.2,Single Family Detached,Purchase,0.0,1,bad
+792,219393,MI,1,2,9900.0,860.0,1926.0,122417.00078291811,Single Family Detached,Purchase,0.0,1,bad
+793,219390,MI,1,2,8900.0,768.0,1956.0,5227.2,Single Family Detached,Purchase,0.0,1,bad
+794,218799,AR,1,3,2500.0,980.0,1959.0,122417.00078291811,Condominium,Purchase,0.0,1,bad
+795,218758,AR,1,2,2500.0,1125.0,1933.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+796,215042,ID,6,4,5450000.0,4618.0,2017.0,3484.8,Single Family Detached,Purchase,0.0,18,good
+798,210356,FL,2,3,300000.0,1392.0,1977.0,16988.4,Single Family Detached,Purchase,2.0,19,good
+799,204492,IA,3,4,1257886.0,2656.0,2018.0,15158.88,Single Family Detached,Purchase,0.0,0,bad
+800,204450,IA,1,3,190000.0,809.0,1890.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+801,204438,IA,0,0,425000.0,0.0,2015.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+802,204429,IA,4,4,405000.0,2500.0,2018.0,413384.4,Single Family Detached,Purchase,0.0,0,bad
+803,204392,IA,2,2,391060.0,1500.0,2018.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+804,203873,IA,1,1,19900.0,481.0,1923.0,7013.16,Single Family Detached,Purchase,0.0,0,bad
+805,203855,IA,3,4,354050.0,1660.0,2018.0,10890.0,Single Family Detached,Purchase,0.0,0,bad
+806,203838,IA,0,0,944435.0,2713.0,2018.0,76752.72,Single Family Detached,Purchase,0.0,0,bad
+807,203697,IA,0,5,728615.0,2950.0,2017.0,41294.88,Single Family Detached,Purchase,0.0,0,bad
+808,203510,IA,2,3,278900.0,1483.0,2018.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+809,203435,IA,1,3,111000.0,1703.0,1940.0,8058.6,Single Family Detached,Purchase,0.0,0,bad
+810,203407,IA,2,3,261900.0,1532.0,2017.0,13764.96,Single Family Detached,Purchase,0.0,0,bad
+813,169662,SC,2,3,177680.0,1663.0,2018.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+814,156296,NJ,2,2,509000.0,2084.289256198347,1935.0,122417.00078291811,Condominium,Purchase,0.0,18,good
+815,153915,LA,2,3,169900.0,1381.0,2016.0,50094.0,Single Family Detached,Purchase,0.0,22,good
+816,150396,CA,6,5,14500.0,5391.0,1986.0,15992.0,Single Family Detached,Rent,0.0,20,good
+817,150043,IN,1,2,69900.0,864.0,1920.0,6098.4,Single Family Detached,Purchase,1.0,20,good
+818,142080,CA,2,4,325000.0,1886.0,2002.0,7840.8,Single Family Detached,Purchase,2.0,18,good
+819,128982,SC,1,1,119900.0,2084.289256198347,1981.0,122417.00078291811,Condominium,Purchase,0.0,18,good
+824,121495,WY,3,4,504586.0,2084.289256198347,2018.0,217800.0,Farm,Purchase,4.0,0,bad
+825,120413,MO,3,4,239900.0,2208.0,1994.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+826,120018,MO,1,2,69995.0,864.0,2005.0,122417.00078291811,Other,Purchase,0.0,0,bad
+827,119734,MO,2,3,800.0,1500.0,2003.0,122417.00078291811,Duplex,Rent,0.0,0,bad
+828,115568,GA,3,6,198800.0,2700.0,2003.0,385070.4,Triplex,Purchase,0.0,10,good
+829,114156,AR,8,2,360000.0,4960.0,2012.0,13939.2,Duplex,Purchase,4.0,10,good
+831,109535,AR,1,2,5999.0,2154.0,1982.0,6534.0,Single Family Detached,Purchase,0.0,1,bad
+832,108257,AR,2,2,59800.0,1200.0,1984.0,122417.00078291811,Townhouse,Purchase,2.0,1,bad
+833,103889,KY,0,51,720.0,2084.289256198347,1978.0,400752.0,Apartment,Purchase,2.0,1,bad
+834,97798,AL,2,3,169900.0,2084.289256198347,2008.0,21780.0,Single Family Detached,Purchase,0.0,1,bad
+835,97486,AL,4,5,575000.0,2084.289256198347,2014.0,10454.4,Single Family Detached,Purchase,0.0,50,good
+837,93928,FL,3,3,549000.0,2217.0,1989.0,122417.00078291811,Single Family Detached,Purchase,2.0,18,good
+838,83782,CA,1,2,224900.0,720.0,1975.0,122417.00078291811,Single Family Detached,Purchase,0.0,18,good
+840,81880,MT,0,0,125900.0,0.0,2010.0,10402.13,Other,Purchase,3.0,0,bad
+841,80296,CA,3,4,222900.0,2055.0,2003.0,6969.6,Single Family Detached,Purchase,1.0,0,bad
+842,73997,AZ,2,3,389900.0,1737.0,1951.0,12967.99,Single Family Detached,Purchase,0.0,0,bad
+843,63695,AZ,0,0,169000.0,2084.289256198347,1963.0,122417.00078291811,Duplex,Purchase,1.0,0,bad
+845,51604,AZ,3,4,344400.0,2460.0,2018.0,174240.0,Single Family Detached,Purchase,3.0,0,bad
+846,51603,AZ,3,4,303240.0,2166.0,2018.0,174240.0,Single Family Detached,Purchase,3.0,0,bad
+847,50618,NY,2,2,6000.0,1704.0,1981.0,435.6,Timeshare,Purchase,0.0,1,bad
+848,50614,NY,2,2,7000.0,1704.0,1981.0,435.6,Timeshare,Purchase,0.0,1,bad
+849,47216,GA,5,5,600000.0,2084.289256198347,1970.0,709156.8,Single Family Detached,Purchase,4.0,0,bad
+850,46253,MI,3,3,334900.0,2107.0,2018.0,122417.00078291811,Single Family Detached,Purchase,0.0,1,bad
+854,44782,CT,2,3,299900.0,1517.0,2000.0,217800.0,Single Family Detached,Purchase,2.0,0,bad
+855,44656,ON,3,4,345000.0,1833.0,1988.0,122417.00078291811,Single Family Detached,Purchase,2.0,0,bad
+856,43090,FL,2,3,389900.0,2378.0,1990.0,5662.8,Single Family Detached,Purchase,2.0,64,good
+857,42870,FL,2,2,264900.0,1430.0,1993.0,122417.00078291811,Condominium,Purchase,1.0,75,good
+858,42221,FL,2,2,1650.0,2084.289256198347,1975.0,122417.00078291811,Condominium,Rent,1.0,31,good
+859,41860,FL,2,2,225000.0,1507.0,1971.0,4791.6,Single Family Detached,Purchase,1.0,40,good
+860,41770,FL,3,3,639000.0,2080.0,1984.0,122417.00078291811,Condominium,Purchase,1.0,37,good
+865,34893,FL,2,2,218900.0,1387.0,1968.0,4356.0,Single Family Detached,Purchase,1.0,42,good
+870,25018,FL,2,4,195000.0,1356.0,1976.0,122417.00078291811,Single Family Detached,Purchase,0.0,0,bad
+872,20636,FL,1,1,290000.0,694.0,2008.0,122417.00078291811,Condominium,Purchase,1.0,2,bad
+874,16871,FL,1,1,525000.0,780.0,1999.0,122417.00078291811,Condominium,Purchase,1.0,0,bad
+881,11313,FL,3,4,639000.0,3293.0,1974.0,43560.0,Single Family Detached,Purchase,2.0,38,good
+885,7840,FL,0,0,425000.0,1512.0,1923.0,122417.00078291811,Duplex,Purchase,5.0,2,bad
+895,7114,FL,2,3,734000.0,1367.0,1949.0,7405.2,Single Family Detached,Purchase,1.0,1,bad
+896,6599,FL,2,1,97900.0,861.0,1968.0,122417.00078291811,Condominium,Purchase,0.0,0,bad
+897,5181,FL,1,1,92000.0,642.0,1962.0,122417.00078291811,Condominium,Purchase,0.0,2,bad
+898,3983,FL,3,3,379000.0,2408.0,1981.0,9147.6,Single Family Detached,Purchase,2.0,0,bad
+899,2637,FL,2,2,125000.0,1300.0,1973.0,122417.00078291811,Condominium,Purchase,0.0,0,bad
